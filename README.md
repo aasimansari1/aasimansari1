@@ -203,7 +203,7 @@ const aasim = {
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%236E40C9?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://aasimansari1.github.io/mohdaasimansari.github.io/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imranulhaquenoor@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohdaasimansari2003@gmail.com)
 
 <br/>
 
