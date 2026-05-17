@@ -128,13 +128,13 @@ profile = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aasimansari1&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=420" height="175"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aasimansari1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=420" height="175"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasimansari1&theme=chartreuse-dark&hide_border=true&layout=compact&langs_count=8&card_width=340" height="175"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aasimansari1&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=340" height="175"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=aasimansari1&theme=chartreuse-dark&hide_border=true&card_width=780&date_format=M%20j%5B%2C%20Y%5D" height="175"/>
+<img src="https://streak-stats.demolab.com?user=aasimansari1&theme=tokyonight&hide_border=true&card_width=780&date_format=M%20j%5B%2C%20Y%5D" height="175"/>
 
 </div>
 
@@ -185,31 +185,31 @@ profile = {
 <div align="center">
 
 <a href="https://github.com/aasimansari1/smart-traffic-system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aasimansari1&repo=smart-traffic-system&theme=chartreuse-dark&hide_border=true" height="130"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=smart-traffic-system&theme=tokyonight&hide_border=true" height="130"/>
 </a>
 &nbsp;
 <a href="https://github.com/aasimansari1/fake-news-detector">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aasimansari1&repo=fake-news-detector&theme=chartreuse-dark&hide_border=true" height="130"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=fake-news-detector&theme=tokyonight&hide_border=true" height="130"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/aasimansari1/Stock-Price-Prediction">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aasimansari1&repo=Stock-Price-Prediction&theme=chartreuse-dark&hide_border=true" height="130"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=Stock-Price-Prediction&theme=tokyonight&hide_border=true" height="130"/>
 </a>
 &nbsp;
 <a href="https://github.com/aasimansari1/Resume-Screening">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aasimansari1&repo=Resume-Screening&theme=chartreuse-dark&hide_border=true" height="130"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=Resume-Screening&theme=tokyonight&hide_border=true" height="130"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/aasimansari1/Face-Recognition-Based-Attendance-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aasimansari1&repo=Face-Recognition-Based-Attendance-System&theme=chartreuse-dark&hide_border=true" height="130"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=Face-Recognition-Based-Attendance-System&theme=tokyonight&hide_border=true" height="130"/>
 </a>
 &nbsp;
 <a href="https://github.com/aasimansari1/AI-Health-Prediction-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aasimansari1&repo=AI-Health-Prediction-System&theme=chartreuse-dark&hide_border=true" height="130"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=AI-Health-Prediction-System&theme=tokyonight&hide_border=true" height="130"/>
 </a>
 
 </div>
