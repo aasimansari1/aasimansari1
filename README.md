@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=800&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%94%AC+Data+Scientist+%7C+Turning+Data+into+Decisions;%F0%9F%A4%96+ML+%E2%80%A2+Deep+Learning+%E2%80%A2+NLP+%E2%80%A2+Computer+Vision;%F0%9F%A6%9C+LangChain+%E2%80%A2+YOLOv8+%E2%80%A2+RAG+%E2%80%A2+Agentic+AI;%F0%9F%8C%90+React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB+%E2%80%A2+Full+Stack;%F0%9F%8E%93+B.Tech+CSE+AIML+%7C+Final+Year+%7C+Open+to+Work+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=800&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%94%AC+Data+Scientist+%7C+Turning+Data+into+Decisions;%F0%9F%A4%96+ML+%E2%80%A2+Deep+Learning+%E2%80%A2+NLP+%E2%80%A2+Computer+Vision;%F0%9F%A6%9C+LangChain+%E2%80%A2+YOLOv8+%E2%80%A2+RAG+%E2%80%A2+Agentic+AI;%F0%9F%8C%90+React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB+%E2%80%A2+Full+Stack;%F0%9F%8E%93+B.Tech+CSE+%7C+Final+Year+%7C+Open+to+Work+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
