@@ -89,9 +89,17 @@ profile = {
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-**🛠️ Dev & Deployment**
+**🌐 Web Development — Frontend**
 
-[![Skills](https://skillicons.dev/icons?i=flask,fastapi,docker,git,github,vscode,jupyter&theme=dark&perline=7)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark&perline=8)](https://skillicons.dev)
+
+**🔧 Web Development — Backend & Database**
+
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,mongodb,mysql,firebase&theme=dark&perline=7)](https://skillicons.dev)
+
+**☁️ Cloud, DevOps & Tools**
+
+[![Skills](https://skillicons.dev/icons?i=docker,git,github,vscode,postman,vercel,netlify,linux&theme=dark&perline=8)](https://skillicons.dev)
 
 </div>
 
