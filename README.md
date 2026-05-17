@@ -148,7 +148,7 @@ class AasimAnsari:
 </tr>
 <tr>
 <td colspan="2">
-<img src="https://github-readme-streak-stats.demolab.com/?user=aasimansari1&theme=tokyonight&hide_border=true" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=aasimansari1&theme=tokyonight&hide_border=true" width="100%"/>
 </td>
 </tr>
 <tr>
