@@ -8,9 +8,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aasimansari1&color=00D9FF&style=for-the-badge&labelColor=0D1117&label=PROFILE+VIEWS)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aasimansari1-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/aasimansari1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aasimansari1-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/mohdaasimansari)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-BD00FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://aasimansari1.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-BD00FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://aasimansari1.github.io/mohdaasimansari.github.io/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-mohdaasimansari2003@gmail.com-FFD700?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:mohdaasimansari2003@gmail.com)
 &nbsp;
@@ -271,9 +271,9 @@ class AasimAnsari:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/aasimansari1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/mohdaasimansari)
 &nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-BD00FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://aasimansari1.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-BD00FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://aasimansari1.github.io/mohdaasimansari.github.io/)
 &nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-Reach_Out-FFD700?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:mohdaasimansari2003@gmail.com)
 
