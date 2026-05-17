@@ -252,7 +252,7 @@ profile = {
 
 <br/>
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom_Up.svg)
+![Wave](https://raw.githubusercontent.com/aasimansari1/aasimansari1/main/assets/wave-bottom.svg)
 
 **⭐ Star repos you find useful — it helps others discover them too!**
 
