@@ -1,17 +1,21 @@
  name: Generate Contribution Snake
   on:
-    schedule:      - cron: "0 */12 * * *"
+    schedule:
+      - cron: "0 */12 * * *"
     workflow_dispatch:
-
   jobs:
-    generate:      runs-on: ubuntu-latest
-      timeout-minutes: 10      steps:
+    generate:
+      runs-on: ubuntu-latest
+      timeout-minutes: 10
+      steps:
         - uses: Platane/snk@v3
           with:
             github_user_name: ${{ github.repository_owner }}
             outputs: |
-              dist/github-snake.svg              dist/github-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3.1.0          with:
+              dist/github-snake.svg
+              dist/github-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v3.1.0
+          with:
             target_branch: output
             build_dir: dist
           env:
