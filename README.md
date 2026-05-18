@@ -145,47 +145,47 @@ class AasimAnsari:
 <tr>
 <td width="50%">
 
+[![ML Interview Prep](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=ml-interview-prep&theme=tokyonight&hide_border=true)](https://github.com/aasimansari1/ml-interview-prep)
+
+</td>
+<td width="50%">
+
 [![AI Resume Screener](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=Resume-Screening&theme=tokyonight&hide_border=true)](https://github.com/aasimansari1/Resume-Screening)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 [![Fake News Detector](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=fake-news-detector&theme=tokyonight&hide_border=true)](https://github.com/aasimansari1/fake-news-detector)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 [![Smart Traffic System](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=smart-traffic-system&theme=tokyonight&hide_border=true)](https://github.com/aasimansari1/smart-traffic-system)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 [![ChatNova AI](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=chatnova-ai&theme=tokyonight&hide_border=true)](https://github.com/aasimansari1/chatnova-ai)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 [![Disaster Alert System](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=disaster-alert-system&theme=tokyonight&hide_border=true)](https://github.com/aasimansari1/disaster-alert-system)
 
 </td>
-<td width="50%">
-
-[![Ecommerce](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=ecommerce-website&theme=tokyonight&hide_border=true)](https://github.com/aasimansari1/ecommerce-website)
-
-</td>
 </tr>
 </table>
 
+| 🧠 ML Interview Prep | 500+ Q&A · cheat sheets · system design · code | Python · PyTorch · scikit-learn |
 | 🤖 AI Resume Screener | Screen 100s of resumes instantly, rank by job fit | Python · spaCy · Flask |
 | 🛡️ FakeShield AI | REAL/FAKE verdict + explainable word evidence | scikit-learn · NLTK |
 | 🚦 Smart Traffic System | YOLOv8 adaptive signals + emergency override | YOLOv8 · OpenCV |
 | 💬 ChatNova AI | Full-stack ChatGPT SaaS with auth & dark mode | React · Node.js · OpenAI |
 | 🚨 Disaster Alert System | Real-time geo alerts via Socket.IO + Leaflet | Socket.IO · MongoDB |
-| 🛒 ShopHub Ecommerce | Complete store with cart, orders & admin panel | React · Express · MongoDB |
 
 </div>
 
