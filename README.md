@@ -145,7 +145,7 @@ class AasimAnsari:
 <tr>
 <td width="50%">
 
-[![AI Resume Screener](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=ai-resume-screener&theme=tokyonight&hide_border=true)](https://github.com/aasimansari1/ai-resume-screener)
+[![AI Resume Screener](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=Resume-Screening&theme=tokyonight&hide_border=true)](https://github.com/aasimansari1/Resume-Screening)
 
 </td>
 <td width="50%">
@@ -174,7 +174,7 @@ class AasimAnsari:
 </td>
 <td width="50%">
 
-[![Ecommerce](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=ecommerce&theme=tokyonight&hide_border=true)](https://github.com/aasimansari1/ecommerce)
+[![Ecommerce](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=ecommerce-website&theme=tokyonight&hide_border=true)](https://github.com/aasimansari1/ecommerce-website)
 
 </td>
 </tr>
