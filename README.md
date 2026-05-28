@@ -65,6 +65,7 @@ class AasimAnsari:
 
 | Project | Status |
 |---------|--------|
+| 📈 SalesCast AI | ![Live](https://img.shields.io/badge/Live-00FF00?style=flat-square) |
 | 🤖 Agentic RAG Chatbot | ![WIP](https://img.shields.io/badge/In_Progress-FFD700?style=flat-square) |
 | 🎯 YOLOv8 Real-Time Detector | ![Active](https://img.shields.io/badge/Active-00D9FF?style=flat-square) |
 | 🚨 Disaster Alert System | ![Beta](https://img.shields.io/badge/Beta-BD00FF?style=flat-square) |
@@ -145,41 +146,54 @@ class AasimAnsari:
 <tr>
 <td width="50%">
 
+[![SalesCast AI](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=Sales-Forecasting-System&theme=tokyonight&hide_border=true)](https://github.com/aasimansari1/Sales-Forecasting-System)
+
+</td>
+<td width="50%">
+
 [![ML Interview Prep](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=ml-interview-prep&theme=tokyonight&hide_border=true)](https://github.com/aasimansari1/ml-interview-prep)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 [![AI Resume Screener](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=Resume-Screening&theme=tokyonight&hide_border=true)](https://github.com/aasimansari1/Resume-Screening)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 [![Fake News Detector](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=fake-news-detector&theme=tokyonight&hide_border=true)](https://github.com/aasimansari1/fake-news-detector)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 [![Smart Traffic System](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=smart-traffic-system&theme=tokyonight&hide_border=true)](https://github.com/aasimansari1/smart-traffic-system)
+
+</td>
+<td width="50%">
+
+[![ChatNova AI](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=chatnova-ai&theme=tokyonight&hide_border=true)](https://github.com/aasimansari1/chatnova-ai)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-[![ChatNova AI](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=chatnova-ai&theme=tokyonight&hide_border=true)](https://github.com/aasimansari1/chatnova-ai)
+[![Disaster Alert System](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=disaster-alert-system&theme=tokyonight&hide_border=true)](https://github.com/aasimansari1/disaster-alert-system)
 
 </td>
 <td width="50%">
 
-[![Disaster Alert System](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=disaster-alert-system&theme=tokyonight&hide_border=true)](https://github.com/aasimansari1/disaster-alert-system)
+[![Fake News Detector](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=fake-news-detector&theme=tokyonight&hide_border=true)](https://github.com/aasimansari1/fake-news-detector)
 
 </td>
 </tr>
 </table>
 
+| 📈 SalesCast AI | AI forecasting dashboard · XGBoost · ARIMA · Prophet · LSTM · anomaly detection · RFM segmentation · [**Live Demo**](https://salescast-ai.onrender.com) | React · FastAPI · SQLite · Recharts |
 | 🧠 ML Interview Prep | 500+ Q&A · cheat sheets · system design · code | Python · PyTorch · scikit-learn |
 | 🤖 AI Resume Screener | Screen 100s of resumes instantly, rank by job fit | Python · spaCy · Flask |
 | 🛡️ FakeShield AI | REAL/FAKE verdict + explainable word evidence | scikit-learn · NLTK |
