@@ -175,7 +175,7 @@ class AasimAnsari:
 </td>
 <td width="50%">
 
-[![ChatNova AI](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=chatnova-ai&theme=tokyonight&hide_border=true)](https://github.com/aasimansari1/chatnova-ai)
+[![Fake News Detector](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=fake-news-detector&theme=tokyonight&hide_border=true)](https://github.com/aasimansari1/fake-news-detector)
 
 </td>
 </tr>
@@ -187,7 +187,7 @@ class AasimAnsari:
 </td>
 <td width="50%">
 
-[![Fake News Detector](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=fake-news-detector&theme=tokyonight&hide_border=true)](https://github.com/aasimansari1/fake-news-detector)
+[![ChatNova AI](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=chatnova-ai&theme=tokyonight&hide_border=true)](https://github.com/aasimansari1/chatnova-ai)
 
 </td>
 </tr>
