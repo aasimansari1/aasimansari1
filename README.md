@@ -88,15 +88,15 @@ class AasimAnsari:
 
 <div align="center">
 
-**Languages & Core**
+**Languages &amp; Core**
 
 [![Languages](https://skillicons.dev/icons?i=python,js,ts,html,css,bash&theme=dark)](https://skillicons.dev)
 
-**Data Science & ML**
+**Data Science &amp; ML**
 
 [![AI Stack](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark)](https://skillicons.dev)
 
-**Gen AI & Agentic AI**
+**Gen AI &amp; Agentic AI**
 
 ![LangChain](https://img.shields.io/badge/LangChain-00D9FF?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=0D1117)
 ![LangGraph](https://img.shields.io/badge/LangGraph-BD00FF?style=for-the-badge&logo=graphql&logoColor=white&labelColor=0D1117)
@@ -111,7 +111,7 @@ class AasimAnsari:
 
 [![Web Stack](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,fastapi,flask,vite,tailwind&theme=dark)](https://skillicons.dev)
 
-**Tools & DevOps**
+**Tools &amp; DevOps**
 
 [![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=dark)](https://skillicons.dev)
 
