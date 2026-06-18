@@ -141,6 +141,17 @@ class AasimAnsari:
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aasimansari1&theme=github-compact&hide_border=true&area=true)](https://github.com/aasimansari1)
 
+<br/>
+
+<table>
+<tr>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aasimansari1&theme=tokyonight" height="160"/></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aasimansari1&theme=tokyonight" height="160"/></td>
+</tr>
+</table>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aasimansari1&theme=tokyonight" width="100%"/>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
