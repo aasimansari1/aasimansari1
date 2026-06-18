@@ -126,15 +126,15 @@ class AasimAnsari:
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aasimansari1&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width="100%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aasimansari1&amp;theme=tokyonight&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true" width="100%"/>
 </td>
 <td width="50%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aasimansari1&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=10" width="100%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aasimansari1&amp;theme=tokyonight&amp;show_icons=true&amp;hide_border=true&amp;layout=compact&amp;langs_count=10" width="100%"/>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<img src="https://streak-stats.demolab.com?user=aasimansari1&theme=tokyonight&hide_border=true" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=aasimansari1&amp;theme=tokyonight&amp;hide_border=true" width="100%"/>
 </td>
 </tr>
 </table>
@@ -145,12 +145,12 @@ class AasimAnsari:
 
 <table>
 <tr>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aasimansari1&theme=tokyonight" height="160"/></td>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aasimansari1&theme=tokyonight" height="160"/></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aasimansari1&amp;theme=tokyonight" height="160"/></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aasimansari1&amp;theme=tokyonight" height="160"/></td>
 </tr>
 </table>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aasimansari1&theme=tokyonight" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aasimansari1&amp;theme=tokyonight" width="100%"/>
 
 </div>
 
