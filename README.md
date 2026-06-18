@@ -60,7 +60,7 @@ class AasimAnsari:
 
 ![Available](https://img.shields.io/badge/STATUS-AVAILABLE-00FF00?style=for-the-badge&labelColor=0D1117)
 
-- 🎯 **Internship** — Full Stack / Data Science / Gen AI
+- 🎯 **Internship** — Data Science / Gen AI / Full Stack
 - 🔬 **Research** — Agentic AI, RAG Systems, LLMs
 - 💼 **Freelance** — Full Stack + AI Projects
 
@@ -92,20 +92,20 @@ class AasimAnsari:
 
 [![Languages](https://skillicons.dev/icons?i=python,js,ts,html,css,bash&theme=dark)](https://skillicons.dev)
 
-**Generative AI & LLMs**
+**Data Science & ML**
+
+[![AI Stack](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark)](https://skillicons.dev)
+
+**Gen AI & Agentic AI**
 
 ![LangChain](https://img.shields.io/badge/LangChain-00D9FF?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=0D1117)
 ![LangGraph](https://img.shields.io/badge/LangGraph-BD00FF?style=for-the-badge&logo=graphql&logoColor=white&labelColor=0D1117)
-![CrewAI](https://img.shields.io/badge/CrewAI-FFD700?style=for-the-badge&logo=robot&logoColor=black&labelColor=0D1117)
+![CrewAI](https://img.shields.io/badge/CrewAI-FFD700?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2Zy8+&logoColor=black&labelColor=0D1117)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-00D9FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD700?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0D1117)
-![Groq](https://img.shields.io/badge/Groq-BD00FF?style=for-the-badge&logo=lightning&logoColor=white&labelColor=0D1117)
-![Ollama](https://img.shields.io/badge/Ollama-00D9FF?style=for-the-badge&logo=ollama&logoColor=white&labelColor=0D1117)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-00FF88?style=for-the-badge&logo=database&logoColor=black&labelColor=0D1117)
-
-**AI / ML / Data Science**
-
-[![AI Stack](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark)](https://skillicons.dev)
+![Groq](https://img.shields.io/badge/Groq-BD00FF?style=for-the-badge&labelColor=0D1117)
+![Ollama](https://img.shields.io/badge/Ollama-00D9FF?style=for-the-badge&labelColor=0D1117)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-00FF88?style=for-the-badge&labelColor=0D1117)
 
 **Full Stack Development**
 
@@ -161,13 +161,9 @@ class AasimAnsari:
 
 ![Pull Shark](https://img.shields.io/badge/🦈_Pull_Shark-Gold_×4-FFD700?style=for-the-badge&labelColor=0D1117)
 &nbsp;
-![Galaxy Brain](https://img.shields.io/badge/🧠_Galaxy_Brain-Gold_×4-FFD700?style=for-the-badge&labelColor=0D1117)
-&nbsp;
 ![Pair Extraordinaire](https://img.shields.io/badge/👥_Pair_Extraordinaire-Gold_×4-00D9FF?style=for-the-badge&labelColor=0D1117)
 &nbsp;
 ![Quickdraw](https://img.shields.io/badge/⚡_Quickdraw-Unlocked-BD00FF?style=for-the-badge&labelColor=0D1117)
-&nbsp;
-![Heart On Your Sleeve](https://img.shields.io/badge/🤍_Heart_On_Your_Sleeve-Silver_×3-C0C0C0?style=for-the-badge&labelColor=0D1117)
 &nbsp;
 ![YOLO](https://img.shields.io/badge/🎯_YOLO-Unlocked-00FF88?style=for-the-badge&labelColor=0D1117)
 
