@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:1a0a2e,60:0d1b3e,100:003366&height=300&section=header&text=MOHD%20AASIM%20ANSARI&fontSize=54&fontColor=00D9FF&animation=twinkling&fontAlignY=42&desc=%E2%9A%A1%20Data%20Scientist%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20AI%20Researcher%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%9A%A1&descAlignY=66&descColor=BD00FF&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:1a0a2e,60:0d1b3e,100:003366&height=300&section=header&text=MOHD%20AASIM%20ANSARI&fontSize=54&fontColor=00D9FF&animation=twinkling&fontAlignY=42&desc=%E2%9A%A1%20Full%20Stack%20Dev%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Generative%20AI%20%E2%80%A2%20Agentic%20AI%20Engineer%20%E2%9A%A1&descAlignY=66&descColor=BD00FF&descSize=18" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=800&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%94%AC+Data+Scientist+%7C+Turning+Data+into+Decisions;%F0%9F%A4%96+ML+%E2%80%A2+Deep+Learning+%E2%80%A2+NLP+%E2%80%A2+Computer+Vision;%F0%9F%A6%9C+LangChain+%E2%80%A2+YOLOv8+%E2%80%A2+RAG+%E2%80%A2+Agentic+AI;%F0%9F%8C%90+React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB+%E2%80%A2+Full+Stack;%F0%9F%8E%93+B.Tech+CSE+%7C+Final+Year+%7C+Open+to+Work+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=800&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%A4%96+Generative+AI+%E2%80%A2+Agentic+AI+%E2%80%A2+LLM+Engineer;%F0%9F%94%AC+Data+Scientist+%7C+Turning+Data+into+Decisions;%F0%9F%A6%9C+LangChain+%E2%80%A2+CrewAI+%E2%80%A2+RAG+%E2%80%A2+AutoGen;%F0%9F%8C%90+Full+Stack%3A+React+%E2%80%A2+Node.js+%E2%80%A2+FastAPI;%F0%9F%8E%93+B.Tech+CSE+%7C+Final+Year+%7C+Open+to+Work+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -26,15 +26,21 @@
 class AasimAnsari:
     def __init__(self):
         self.name        = "Mohd Aasim Ansari"
-        self.role        = ["Data Scientist", "ML Engineer", "AI Researcher", "Full Stack Dev"]
-        self.expertise   = ["Machine Learning", "Deep Learning", "NLP", "Computer Vision",
-                            "LangChain", "RAG", "Agentic AI", "YOLOv8", "Full Stack"]
+        self.role        = ["Full Stack Developer", "Data Scientist", "Generative AI Engineer",
+                            "Agentic AI Builder", "LLM Engineer"]
+        self.expertise   = ["Generative AI", "Agentic AI", "RAG Pipelines", "LLM Fine-Tuning",
+                            "Multi-Agent Systems", "Machine Learning", "Deep Learning",
+                            "NLP", "Computer Vision", "Full Stack Development"]
         self.stack = {
-            "Data Science" : ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly"],
-            "AI / ML"      : ["scikit-learn", "TensorFlow", "PyTorch", "LangChain", "YOLOv8", "OpenCV"],
-            "Web Dev"      : ["React", "Node.js", "TypeScript", "MongoDB", "Express", "Flask"],
+            "Generative AI"  : ["LangChain", "LangGraph", "CrewAI", "AutoGen", "LlamaIndex",
+                                "OpenAI API", "Groq", "Ollama", "HuggingFace", "RAG"],
+            "Data Science"   : ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn",
+                                "scikit-learn", "XGBoost", "TensorFlow", "PyTorch"],
+            "Full Stack"     : ["React", "Node.js", "TypeScript", "FastAPI", "MongoDB",
+                                "Express", "Flask", "TailwindCSS"],
         }
-        self.available   = True   # ✅ Open to Internship · Research · Freelance
+        self.current_focus = "Building production-grade Agentic AI systems"
+        self.available     = True   # ✅ Open to Internship · Research · Freelance
 
     def __repr__(self):
         return "Always learning. Always building. Always delivering. 🚀"
@@ -54,9 +60,9 @@ class AasimAnsari:
 
 ![Available](https://img.shields.io/badge/STATUS-AVAILABLE-00FF00?style=for-the-badge&labelColor=0D1117)
 
-- 🎯 **Internship** — Data Science / ML / AI
-- 🔬 **Research** — NLP, Computer Vision, LLMs
-- 💼 **Freelance** — Full Stack + Data Projects
+- 🎯 **Internship** — Gen AI / Data Science / Full Stack
+- 🔬 **Research** — LLMs, Agentic AI, RAG Systems
+- 💼 **Freelance** — AI Apps + Full Stack Projects
 
 </td>
 <td width="50%" align="center">
@@ -65,10 +71,10 @@ class AasimAnsari:
 
 | Project | Status |
 |---------|--------|
+| 🤖 Multi-Agent AI System | ![WIP](https://img.shields.io/badge/In_Progress-FFD700?style=flat-square) |
+| 🧠 Agentic RAG Chatbot | ![Active](https://img.shields.io/badge/Active-00D9FF?style=flat-square) |
 | 📈 SalesCast AI | ![Live](https://img.shields.io/badge/Live-00FF00?style=flat-square) |
-| 🤖 Agentic RAG Chatbot | ![WIP](https://img.shields.io/badge/In_Progress-FFD700?style=flat-square) |
-| 🎯 YOLOv8 Real-Time Detector | ![Active](https://img.shields.io/badge/Active-00D9FF?style=flat-square) |
-| 🚨 Disaster Alert System | ![Beta](https://img.shields.io/badge/Beta-BD00FF?style=flat-square) |
+| 🚦 YOLOv8 Real-Time Detector | ![Active](https://img.shields.io/badge/Active-BD00FF?style=flat-square) |
 
 </td>
 </tr>
@@ -86,13 +92,24 @@ class AasimAnsari:
 
 [![Languages](https://skillicons.dev/icons?i=python,js,ts,html,css,bash&theme=dark)](https://skillicons.dev)
 
+**Generative AI & LLMs**
+
+![LangChain](https://img.shields.io/badge/LangChain-00D9FF?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=0D1117)
+![LangGraph](https://img.shields.io/badge/LangGraph-BD00FF?style=for-the-badge&logo=graphql&logoColor=white&labelColor=0D1117)
+![CrewAI](https://img.shields.io/badge/CrewAI-FFD700?style=for-the-badge&logo=robot&logoColor=black&labelColor=0D1117)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-00D9FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD700?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0D1117)
+![Groq](https://img.shields.io/badge/Groq-BD00FF?style=for-the-badge&logo=lightning&logoColor=white&labelColor=0D1117)
+![Ollama](https://img.shields.io/badge/Ollama-00D9FF?style=for-the-badge&logo=ollama&logoColor=white&labelColor=0D1117)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-00FF88?style=for-the-badge&logo=database&logoColor=black&labelColor=0D1117)
+
 **AI / ML / Data Science**
 
 [![AI Stack](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark)](https://skillicons.dev)
 
-**Web Development**
+**Full Stack Development**
 
-[![Web Stack](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,flask,vite,tailwind&theme=dark)](https://skillicons.dev)
+[![Web Stack](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,fastapi,flask,vite,tailwind&theme=dark)](https://skillicons.dev)
 
 **Tools & DevOps**
 
@@ -146,12 +163,12 @@ class AasimAnsari:
 <tr>
 <td width="50%">
 
-[![SalesCast AI](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=Sales-Forecasting-System&theme=tokyonight&hide_border=true)](https://github.com/aasimansari1/Sales-Forecasting-System)
+[![ChatNova AI](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=chatnova-ai&theme=tokyonight&hide_border=true)](https://github.com/aasimansari1/chatnova-ai)
 
 </td>
 <td width="50%">
 
-[![ML Interview Prep](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=ml-interview-prep&theme=tokyonight&hide_border=true)](https://github.com/aasimansari1/ml-interview-prep)
+[![SalesCast AI](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=Sales-Forecasting-System&theme=tokyonight&hide_border=true)](https://github.com/aasimansari1/Sales-Forecasting-System)
 
 </td>
 </tr>
@@ -175,30 +192,18 @@ class AasimAnsari:
 </td>
 <td width="50%">
 
-[![Fake News Detector](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=fake-news-detector&theme=tokyonight&hide_border=true)](https://github.com/aasimansari1/fake-news-detector)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
 [![Disaster Alert System](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=disaster-alert-system&theme=tokyonight&hide_border=true)](https://github.com/aasimansari1/disaster-alert-system)
-
-</td>
-<td width="50%">
-
-[![ChatNova AI](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=chatnova-ai&theme=tokyonight&hide_border=true)](https://github.com/aasimansari1/chatnova-ai)
 
 </td>
 </tr>
 </table>
 
-| 📈 SalesCast AI | AI forecasting dashboard · XGBoost · ARIMA · Prophet · LSTM · anomaly detection · RFM segmentation · [**Live Demo**](https://salescast-ai.onrender.com) | React · FastAPI · SQLite · Recharts |
-| 🧠 ML Interview Prep | 500+ Q&A · cheat sheets · system design · code | Python · PyTorch · scikit-learn |
+| 💬 ChatNova AI | Full-stack ChatGPT SaaS with auth & streaming | React · Node.js · OpenAI API |
+| 🤖 Agentic RAG Chatbot | Multi-agent RAG with memory & tool use | LangChain · LangGraph · CrewAI |
+| 📈 SalesCast AI | AI forecasting · XGBoost · ARIMA · Prophet · LSTM | React · FastAPI · SQLite |
+| 🧠 ML Interview Prep | 500+ Q&A · cheat sheets · system design | Python · PyTorch · scikit-learn |
 | 🤖 AI Resume Screener | Screen 100s of resumes instantly, rank by job fit | Python · spaCy · Flask |
-| 🛡️ FakeShield AI | REAL/FAKE verdict + explainable word evidence | scikit-learn · NLTK |
 | 🚦 Smart Traffic System | YOLOv8 adaptive signals + emergency override | YOLOv8 · OpenCV |
-| 💬 ChatNova AI | Full-stack ChatGPT SaaS with auth & dark mode | React · Node.js · OpenAI |
 | 🚨 Disaster Alert System | Real-time geo alerts via Socket.IO + Leaflet | Socket.IO · MongoDB |
 
 </div>
@@ -241,7 +246,7 @@ class AasimAnsari:
 
 <br/>
 
-> *"In God we trust; all others must bring data."* — W. Edwards Deming
+> *"The best way to predict the future is to build it with AI."*
 
 </div>
 
