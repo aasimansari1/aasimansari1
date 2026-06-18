@@ -26,7 +26,7 @@
 class AasimAnsari:
     def __init__(self):
         self.name        = "Mohd Aasim Ansari"
-        self.role        = "Full Stack Data Science with Gen AI & Agentic AI"
+        self.role        = "Full Stack Data Science with Gen AI and Agentic AI"
         self.expertise   = ["Data Science", "Machine Learning", "Deep Learning",
                             "NLP", "Computer Vision", "Gen AI", "RAG Pipelines",
                             "Agentic AI", "Multi-Agent Systems", "Full Stack Development"]
@@ -39,7 +39,7 @@ class AasimAnsari:
             "Full Stack"     : ["Python", "React", "FastAPI", "Node.js", "MongoDB",
                                 "TailwindCSS", "Flask", "TypeScript"],
         }
-        self.current_focus = "Full Stack Data Science with Gen AI & Agentic AI"
+        self.current_focus = "Full Stack Data Science with Gen AI and Agentic AI"
         self.available     = True   # ✅ Open to Internship · Research · Freelance
 
     def __repr__(self):
