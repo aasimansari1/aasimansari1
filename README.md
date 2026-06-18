@@ -145,11 +145,21 @@ class AasimAnsari:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 🏆 GITHUB TROPHIES
+## 🏆 GITHUB ACHIEVEMENTS
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=aasimansari1&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![Pull Shark](https://img.shields.io/badge/🦈_Pull_Shark-Gold_×4-FFD700?style=for-the-badge&labelColor=0D1117)
+&nbsp;
+![Galaxy Brain](https://img.shields.io/badge/🧠_Galaxy_Brain-Gold_×4-FFD700?style=for-the-badge&labelColor=0D1117)
+&nbsp;
+![Pair Extraordinaire](https://img.shields.io/badge/👥_Pair_Extraordinaire-Unlocked-00D9FF?style=for-the-badge&labelColor=0D1117)
+&nbsp;
+![Quickdraw](https://img.shields.io/badge/⚡_Quickdraw-Unlocked-BD00FF?style=for-the-badge&labelColor=0D1117)
+&nbsp;
+![Heart On Your Sleeve](https://img.shields.io/badge/🤍_Heart_On_Your_Sleeve-Silver_×3-C0C0C0?style=for-the-badge&labelColor=0D1117)
+&nbsp;
+![YOLO](https://img.shields.io/badge/🎯_YOLO-Unlocked-00FF88?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
