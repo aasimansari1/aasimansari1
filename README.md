@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:1a0a2e,60:0d1b3e,100:003366&height=300&section=header&text=MOHD%20AASIM%20ANSARI&fontSize=54&fontColor=00D9FF&animation=twinkling&fontAlignY=42&desc=%E2%9A%A1%20Full%20Stack%20Data%20Science%20with%20Gen%20AI%20%26%20Agentic%20AI%20%E2%9A%A1&descAlignY=66&descColor=BD00FF&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:0d0d0d,30:1a0a2e,60:0d1b3e,100:003366&amp;height=300&amp;section=header&amp;text=MOHD%20AASIM%20ANSARI&amp;fontSize=54&amp;fontColor=00D9FF&amp;animation=twinkling&amp;fontAlignY=42&amp;desc=%E2%9A%A1%20Full%20Stack%20Data%20Science%20with%20Gen%20AI%20%26%20Agentic%20AI%20%E2%9A%A1&amp;descAlignY=66&amp;descColor=BD00FF&amp;descSize=18" width="100%"/>
 
 <div align="center">
 
@@ -277,4 +277,4 @@ class AasimAnsari:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:003366,50:1a0a2e,100:0d0d0d&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:003366,50:1a0a2e,100:0d0d0d&amp;height=150&amp;section=footer" width="100%"/>
