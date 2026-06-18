@@ -31,13 +31,13 @@ class AasimAnsari:
                             "Deep Learning", "NLP", "Computer Vision",
                             "Gen AI", "RAG Pipelines", "Agentic AI", "Multi-Agent Systems"]
         self.stack = {
-            "Full Stack DS"  : ["Python", "React", "FastAPI", "Node.js", "MongoDB",
-                                "TailwindCSS", "Flask", "TypeScript"],
             "Data Science"   : ["Pandas", "NumPy", "scikit-learn", "XGBoost",
                                 "TensorFlow", "PyTorch", "Matplotlib", "Seaborn"],
             "Gen AI"         : ["LangChain", "LangGraph", "OpenAI API", "HuggingFace",
                                 "RAG", "Groq", "Ollama", "LlamaIndex"],
             "Agentic AI"     : ["CrewAI", "AutoGen", "LangGraph", "Multi-Agent Systems"],
+            "Full Stack"     : ["Python", "React", "FastAPI", "Node.js", "MongoDB",
+                                "TailwindCSS", "Flask", "TypeScript"],
         }
         self.current_focus = "Full Stack Data Science with Gen AI & Agentic AI"
         self.available     = True   # ✅ Open to Internship · Research · Freelance
