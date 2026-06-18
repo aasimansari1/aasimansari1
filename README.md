@@ -145,7 +145,17 @@ class AasimAnsari:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 🏆 GITHUB ACHIEVEMENTS
+## 🏆 GITHUB TROPHIES
+
+<div align="center">
+
+[![Trophy](https://github-trophies.vercel.app/?username=aasimansari1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4)](https://github.com/aasimansari1)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 🎖️ GITHUB ACHIEVEMENTS
 
 <div align="center">
 
@@ -153,7 +163,7 @@ class AasimAnsari:
 &nbsp;
 ![Galaxy Brain](https://img.shields.io/badge/🧠_Galaxy_Brain-Gold_×4-FFD700?style=for-the-badge&labelColor=0D1117)
 &nbsp;
-![Pair Extraordinaire](https://img.shields.io/badge/👥_Pair_Extraordinaire-Unlocked-00D9FF?style=for-the-badge&labelColor=0D1117)
+![Pair Extraordinaire](https://img.shields.io/badge/👥_Pair_Extraordinaire-Gold_×4-00D9FF?style=for-the-badge&labelColor=0D1117)
 &nbsp;
 ![Quickdraw](https://img.shields.io/badge/⚡_Quickdraw-Unlocked-BD00FF?style=for-the-badge&labelColor=0D1117)
 &nbsp;
