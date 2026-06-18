@@ -100,7 +100,7 @@ class AasimAnsari:
 
 ![LangChain](https://img.shields.io/badge/LangChain-00D9FF?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=0D1117)
 ![LangGraph](https://img.shields.io/badge/LangGraph-BD00FF?style=for-the-badge&logo=graphql&logoColor=white&labelColor=0D1117)
-![CrewAI](https://img.shields.io/badge/CrewAI-FFD700?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2Zy8+&logoColor=black&labelColor=0D1117)
+![CrewAI](https://img.shields.io/badge/CrewAI-FFD700?style=for-the-badge&logoColor=black&labelColor=0D1117)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-00D9FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD700?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0D1117)
 ![Groq](https://img.shields.io/badge/Groq-BD00FF?style=for-the-badge&labelColor=0D1117)
