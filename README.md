@@ -2,19 +2,19 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=800&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%9A%80+Full+Stack+Data+Science+with+Gen+AI+%26+Agentic+AI;%F0%9F%94%AC+Data+Science+%7C+ML+%E2%80%A2+Deep+Learning+%E2%80%A2+NLP;%F0%9F%8C%90+Full+Stack+%7C+React+%E2%80%A2+FastAPI+%E2%80%A2+Node.js;%F0%9F%A4%96+Gen+AI+%7C+LangChain+%E2%80%A2+RAG+%E2%80%A2+LLMs;%F0%9F%A6%9C+Agentic+AI+%7C+CrewAI+%E2%80%A2+LangGraph+%E2%80%A2+AutoGen)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=800&amp;size=22&amp;pause=800&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=800&amp;lines=%F0%9F%9A%80+Full+Stack+Data+Science+with+Gen+AI+%26+Agentic+AI;%F0%9F%94%AC+Data+Science+%7C+ML+%E2%80%A2+Deep+Learning+%E2%80%A2+NLP;%F0%9F%8C%90+Full+Stack+%7C+React+%E2%80%A2+FastAPI+%E2%80%A2+Node.js;%F0%9F%A4%96+Gen+AI+%7C+LangChain+%E2%80%A2+RAG+%E2%80%A2+LLMs;%F0%9F%A6%9C+Agentic+AI+%7C+CrewAI+%E2%80%A2+LangGraph+%E2%80%A2+AutoGen)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=aasimansari1&color=00D9FF&style=for-the-badge&labelColor=0D1117&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=aasimansari1&amp;color=00D9FF&amp;style=for-the-badge&amp;labelColor=0D1117&amp;label=PROFILE+VIEWS)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/mohdaasimansari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00D9FF?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=0D1117)](https://linkedin.com/in/mohdaasimansari)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-BD00FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://aasimansari1.github.io/mohdaasimansari.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-BD00FF?style=for-the-badge&amp;logo=vercel&amp;logoColor=white&amp;labelColor=0D1117)](https://aasimansari1.github.io/mohdaasimansari.github.io/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Gmail-Reach_Out-FFD700?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:mohdaasimansari2003@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-Reach_Out-FFD700?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=0D1117)](mailto:mohdaasimansari2003@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/github/followers/aasimansari1?style=for-the-badge&logo=github&logoColor=white&label=Follow&color=00D9FF&labelColor=0D1117)](https://github.com/aasimansari1)
+[![GitHub](https://img.shields.io/github/followers/aasimansari1?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;label=Follow&amp;color=00D9FF&amp;labelColor=0D1117)](https://github.com/aasimansari1)
 
 </div>
 
@@ -48,7 +48,7 @@ class AasimAnsari:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 🟢 STATUS & CURRENT WORK
+## 🟢 STATUS &amp; CURRENT WORK
 
 <div align="center">
 
@@ -58,7 +58,7 @@ class AasimAnsari:
 
 ### 🟢 Open to Opportunities
 
-![Available](https://img.shields.io/badge/STATUS-AVAILABLE-00FF00?style=for-the-badge&labelColor=0D1117)
+![Available](https://img.shields.io/badge/STATUS-AVAILABLE-00FF00?style=for-the-badge&amp;labelColor=0D1117)
 
 - 🎯 **Internship** — Data Science / Gen AI / Full Stack
 - 🔬 **Research** — Agentic AI, RAG Systems, LLMs
@@ -90,30 +90,30 @@ class AasimAnsari:
 
 **Languages &amp; Core**
 
-[![Languages](https://skillicons.dev/icons?i=python,js,ts,html,css,bash&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,js,ts,html,css,bash&amp;theme=dark)](https://skillicons.dev)
 
 **Data Science &amp; ML**
 
-[![AI Stack](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark)](https://skillicons.dev)
+[![AI Stack](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&amp;theme=dark)](https://skillicons.dev)
 
 **Gen AI &amp; Agentic AI**
 
-![LangChain](https://img.shields.io/badge/LangChain-00D9FF?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=0D1117)
-![LangGraph](https://img.shields.io/badge/LangGraph-BD00FF?style=for-the-badge&logo=graphql&logoColor=white&labelColor=0D1117)
-![CrewAI](https://img.shields.io/badge/CrewAI-FFD700?style=for-the-badge&logoColor=black&labelColor=0D1117)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-00D9FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD700?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0D1117)
-![Groq](https://img.shields.io/badge/Groq-BD00FF?style=for-the-badge&labelColor=0D1117)
-![Ollama](https://img.shields.io/badge/Ollama-00D9FF?style=for-the-badge&labelColor=0D1117)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-00FF88?style=for-the-badge&labelColor=0D1117)
+![LangChain](https://img.shields.io/badge/LangChain-00D9FF?style=for-the-badge&amp;logo=chainlink&amp;logoColor=white&amp;labelColor=0D1117)
+![LangGraph](https://img.shields.io/badge/LangGraph-BD00FF?style=for-the-badge&amp;logo=graphql&amp;logoColor=white&amp;labelColor=0D1117)
+![CrewAI](https://img.shields.io/badge/CrewAI-FFD700?style=for-the-badge&amp;logoColor=black&amp;labelColor=0D1117)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-00D9FF?style=for-the-badge&amp;logo=openai&amp;logoColor=white&amp;labelColor=0D1117)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD700?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black&amp;labelColor=0D1117)
+![Groq](https://img.shields.io/badge/Groq-BD00FF?style=for-the-badge&amp;labelColor=0D1117)
+![Ollama](https://img.shields.io/badge/Ollama-00D9FF?style=for-the-badge&amp;labelColor=0D1117)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-00FF88?style=for-the-badge&amp;labelColor=0D1117)
 
 **Full Stack Development**
 
-[![Web Stack](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,fastapi,flask,vite,tailwind&theme=dark)](https://skillicons.dev)
+[![Web Stack](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,fastapi,flask,vite,tailwind&amp;theme=dark)](https://skillicons.dev)
 
 **Tools &amp; DevOps**
 
-[![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&amp;theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -139,7 +139,7 @@ class AasimAnsari:
 </tr>
 </table>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aasimansari1&theme=github-compact&hide_border=true&area=true)](https://github.com/aasimansari1)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aasimansari1&amp;theme=github-compact&amp;hide_border=true&amp;area=true)](https://github.com/aasimansari1)
 
 <br/>
 
@@ -160,7 +160,7 @@ class AasimAnsari:
 
 <div align="center">
 
-[![Trophy](https://github-trophies.vercel.app/?username=aasimansari1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4)](https://github.com/aasimansari1)
+[![Trophy](https://github-trophies.vercel.app/?username=aasimansari1&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4&amp;column=4)](https://github.com/aasimansari1)
 
 </div>
 
@@ -170,13 +170,13 @@ class AasimAnsari:
 
 <div align="center">
 
-![Pull Shark](https://img.shields.io/badge/🦈_Pull_Shark-Gold_×4-FFD700?style=for-the-badge&labelColor=0D1117)
+![Pull Shark](https://img.shields.io/badge/🦈_Pull_Shark-Gold_×4-FFD700?style=for-the-badge&amp;labelColor=0D1117)
 &nbsp;
-![Pair Extraordinaire](https://img.shields.io/badge/👥_Pair_Extraordinaire-Gold_×4-00D9FF?style=for-the-badge&labelColor=0D1117)
+![Pair Extraordinaire](https://img.shields.io/badge/👥_Pair_Extraordinaire-Gold_×4-00D9FF?style=for-the-badge&amp;labelColor=0D1117)
 &nbsp;
-![Quickdraw](https://img.shields.io/badge/⚡_Quickdraw-Unlocked-BD00FF?style=for-the-badge&labelColor=0D1117)
+![Quickdraw](https://img.shields.io/badge/⚡_Quickdraw-Unlocked-BD00FF?style=for-the-badge&amp;labelColor=0D1117)
 &nbsp;
-![YOLO](https://img.shields.io/badge/🎯_YOLO-Unlocked-00FF88?style=for-the-badge&labelColor=0D1117)
+![YOLO](https://img.shields.io/badge/🎯_YOLO-Unlocked-00FF88?style=for-the-badge&amp;labelColor=0D1117)
 
 </div>
 
@@ -190,45 +190,45 @@ class AasimAnsari:
 <tr>
 <td width="50%">
 
-[![ChatNova AI](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=chatnova-ai&theme=tokyonight&hide_border=true)](https://github.com/aasimansari1/chatnova-ai)
+[![ChatNova AI](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&amp;repo=chatnova-ai&amp;theme=tokyonight&amp;hide_border=true)](https://github.com/aasimansari1/chatnova-ai)
 
 </td>
 <td width="50%">
 
-[![SalesCast AI](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=Sales-Forecasting-System&theme=tokyonight&hide_border=true)](https://github.com/aasimansari1/Sales-Forecasting-System)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-[![AI Resume Screener](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=Resume-Screening&theme=tokyonight&hide_border=true)](https://github.com/aasimansari1/Resume-Screening)
-
-</td>
-<td width="50%">
-
-[![Fake News Detector](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=fake-news-detector&theme=tokyonight&hide_border=true)](https://github.com/aasimansari1/fake-news-detector)
+[![SalesCast AI](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&amp;repo=Sales-Forecasting-System&amp;theme=tokyonight&amp;hide_border=true)](https://github.com/aasimansari1/Sales-Forecasting-System)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-[![Smart Traffic System](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=smart-traffic-system&theme=tokyonight&hide_border=true)](https://github.com/aasimansari1/smart-traffic-system)
+[![AI Resume Screener](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&amp;repo=Resume-Screening&amp;theme=tokyonight&amp;hide_border=true)](https://github.com/aasimansari1/Resume-Screening)
 
 </td>
 <td width="50%">
 
-[![Disaster Alert System](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&repo=disaster-alert-system&theme=tokyonight&hide_border=true)](https://github.com/aasimansari1/disaster-alert-system)
+[![Fake News Detector](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&amp;repo=fake-news-detector&amp;theme=tokyonight&amp;hide_border=true)](https://github.com/aasimansari1/fake-news-detector)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+[![Smart Traffic System](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&amp;repo=smart-traffic-system&amp;theme=tokyonight&amp;hide_border=true)](https://github.com/aasimansari1/smart-traffic-system)
+
+</td>
+<td width="50%">
+
+[![Disaster Alert System](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&amp;repo=disaster-alert-system&amp;theme=tokyonight&amp;hide_border=true)](https://github.com/aasimansari1/disaster-alert-system)
 
 </td>
 </tr>
 </table>
 
-| 💬 ChatNova AI | Full-stack ChatGPT SaaS with auth & streaming | React · Node.js · OpenAI API |
-| 🤖 Agentic RAG Chatbot | Multi-agent RAG with memory & tool use | LangChain · LangGraph · CrewAI |
+| 💬 ChatNova AI | Full-stack ChatGPT SaaS with auth &amp; streaming | React · Node.js · OpenAI API |
+| 🤖 Agentic RAG Chatbot | Multi-agent RAG with memory &amp; tool use | LangChain · LangGraph · CrewAI |
 | 📈 SalesCast AI | AI forecasting · XGBoost · ARIMA · Prophet · LSTM | React · FastAPI · SQLite |
-| 🧠 ML Interview Prep | 500+ Q&A · cheat sheets · system design | Python · PyTorch · scikit-learn |
+| 🧠 ML Interview Prep | 500+ Q&amp;A · cheat sheets · system design | Python · PyTorch · scikit-learn |
 | 🤖 AI Resume Screener | Screen 100s of resumes instantly, rank by job fit | Python · spaCy · Flask |
 | 🚦 Smart Traffic System | YOLOv8 adaptive signals + emergency override | YOLOv8 · OpenCV |
 | 🚨 Disaster Alert System | Real-time geo alerts via Socket.IO + Leaflet | Socket.IO · MongoDB |
@@ -255,7 +255,7 @@ class AasimAnsari:
 
 <div align="center">
 
-[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
@@ -265,11 +265,11 @@ class AasimAnsari:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/mohdaasimansari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00D9FF?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=0D1117)](https://linkedin.com/in/mohdaasimansari)
 &nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-BD00FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://aasimansari1.github.io/mohdaasimansari.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-BD00FF?style=for-the-badge&amp;logo=vercel&amp;logoColor=white&amp;labelColor=0D1117)](https://aasimansari1.github.io/mohdaasimansari.github.io/)
 &nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-Reach_Out-FFD700?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:mohdaasimansari2003@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-FFD700?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=0D1117)](mailto:mohdaasimansari2003@gmail.com)
 
 <br/>
 
