@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:1a0a2e,60:0d1b3e,100:003366&height=300&section=header&text=MOHD%20AASIM%20ANSARI&fontSize=54&fontColor=00D9FF&animation=twinkling&fontAlignY=42&desc=%E2%9A%A1%20Full%20Stack%20Dev%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Generative%20AI%20%E2%80%A2%20Agentic%20AI%20Engineer%20%E2%9A%A1&descAlignY=66&descColor=BD00FF&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:1a0a2e,60:0d1b3e,100:003366&height=300&section=header&text=MOHD%20AASIM%20ANSARI&fontSize=54&fontColor=00D9FF&animation=twinkling&fontAlignY=42&desc=%E2%9A%A1%20Full%20Stack%20Developer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Gen%20AI%20Engineer%20%E2%80%A2%20Agentic%20AI%20Engineer%20%E2%9A%A1&descAlignY=66&descColor=BD00FF&descSize=18" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=800&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%A4%96+Generative+AI+%E2%80%A2+Agentic+AI+%E2%80%A2+LLM+Engineer;%F0%9F%94%AC+Data+Scientist+%7C+Turning+Data+into+Decisions;%F0%9F%A6%9C+LangChain+%E2%80%A2+CrewAI+%E2%80%A2+RAG+%E2%80%A2+AutoGen;%F0%9F%8C%90+Full+Stack%3A+React+%E2%80%A2+Node.js+%E2%80%A2+FastAPI;%F0%9F%8E%93+B.Tech+CSE+%7C+Final+Year+%7C+Open+to+Work+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=800&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%8C%90+Full+Stack+Developer+%7C+React+%E2%80%A2+Node.js+%E2%80%A2+FastAPI;%F0%9F%94%AC+Data+Scientist+%7C+ML+%E2%80%A2+Deep+Learning+%E2%80%A2+NLP;%F0%9F%A4%96+Gen+AI+Engineer+%7C+LangChain+%E2%80%A2+RAG+%E2%80%A2+LLMs;%F0%9F%A6%9C+Agentic+AI+Engineer+%7C+CrewAI+%E2%80%A2+LangGraph+%E2%80%A2+AutoGen;%F0%9F%8E%93+B.Tech+CSE+%7C+Final+Year+%7C+Open+to+Work+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -26,20 +26,21 @@
 class AasimAnsari:
     def __init__(self):
         self.name        = "Mohd Aasim Ansari"
-        self.role        = ["Full Stack Developer", "Data Scientist", "Generative AI Engineer",
-                            "Agentic AI Builder", "LLM Engineer"]
-        self.expertise   = ["Generative AI", "Agentic AI", "RAG Pipelines", "LLM Fine-Tuning",
-                            "Multi-Agent Systems", "Machine Learning", "Deep Learning",
-                            "NLP", "Computer Vision", "Full Stack Development"]
+        self.role        = ["Full Stack Developer", "Data Scientist",
+                            "Gen AI Engineer", "Agentic AI Engineer"]
+        self.expertise   = ["Full Stack Development", "Data Science", "Machine Learning",
+                            "Deep Learning", "NLP", "Gen AI", "RAG Pipelines",
+                            "Agentic AI", "Multi-Agent Systems", "LLM Engineering"]
         self.stack = {
-            "Generative AI"  : ["LangChain", "LangGraph", "CrewAI", "AutoGen", "LlamaIndex",
-                                "OpenAI API", "Groq", "Ollama", "HuggingFace", "RAG"],
-            "Data Science"   : ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn",
-                                "scikit-learn", "XGBoost", "TensorFlow", "PyTorch"],
             "Full Stack"     : ["React", "Node.js", "TypeScript", "FastAPI", "MongoDB",
                                 "Express", "Flask", "TailwindCSS"],
+            "Data Science"   : ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn",
+                                "scikit-learn", "XGBoost", "TensorFlow", "PyTorch"],
+            "Gen AI"         : ["LangChain", "LangGraph", "OpenAI API", "HuggingFace",
+                                "RAG", "Groq", "Ollama", "LlamaIndex"],
+            "Agentic AI"     : ["CrewAI", "AutoGen", "LangGraph", "Multi-Agent Systems"],
         }
-        self.current_focus = "Building production-grade Agentic AI systems"
+        self.current_focus = "Full Stack Data Science apps powered by Gen AI & Agentic AI"
         self.available     = True   # ✅ Open to Internship · Research · Freelance
 
     def __repr__(self):
@@ -60,9 +61,9 @@ class AasimAnsari:
 
 ![Available](https://img.shields.io/badge/STATUS-AVAILABLE-00FF00?style=for-the-badge&labelColor=0D1117)
 
-- 🎯 **Internship** — Gen AI / Data Science / Full Stack
-- 🔬 **Research** — LLMs, Agentic AI, RAG Systems
-- 💼 **Freelance** — AI Apps + Full Stack Projects
+- 🎯 **Internship** — Full Stack / Data Science / Gen AI
+- 🔬 **Research** — Agentic AI, RAG Systems, LLMs
+- 💼 **Freelance** — Full Stack + AI Projects
 
 </td>
 <td width="50%" align="center">
