@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:1a0a2e,60:0d1b3e,100:003366&height=300&section=header&text=MOHD%20AASIM%20ANSARI&fontSize=54&fontColor=00D9FF&animation=twinkling&fontAlignY=42&desc=%E2%9A%A1%20Full%20Stack%20Data%20Scientist%20%E2%80%A2%20Gen%20AI%20Engineer%20%E2%80%A2%20Agentic%20AI%20Engineer%20%E2%9A%A1&descAlignY=66&descColor=BD00FF&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:1a0a2e,60:0d1b3e,100:003366&height=300&section=header&text=MOHD%20AASIM%20ANSARI&fontSize=54&fontColor=00D9FF&animation=twinkling&fontAlignY=42&desc=%E2%9A%A1%20Full%20Stack%20Data%20Science%20with%20Gen%20AI%20%26%20Agentic%20AI%20%E2%9A%A1&descAlignY=66&descColor=BD00FF&descSize=18" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=800&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%9A%80+Full+Stack+Data+Scientist+%7C+React+%E2%80%A2+FastAPI+%E2%80%A2+Python;%F0%9F%94%AC+ML+%E2%80%A2+Deep+Learning+%E2%80%A2+NLP+%E2%80%A2+Computer+Vision;%F0%9F%A4%96+Gen+AI+Engineer+%7C+LangChain+%E2%80%A2+RAG+%E2%80%A2+LLMs;%F0%9F%A6%9C+Agentic+AI+Engineer+%7C+CrewAI+%E2%80%A2+LangGraph+%E2%80%A2+AutoGen;%F0%9F%8E%93+B.Tech+CSE+%7C+Final+Year+%7C+Open+to+Work+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=800&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%9A%80+Full+Stack+Data+Science+with+Gen+AI+%26+Agentic+AI;%F0%9F%94%AC+Data+Science+%7C+ML+%E2%80%A2+Deep+Learning+%E2%80%A2+NLP;%F0%9F%8C%90+Full+Stack+%7C+React+%E2%80%A2+FastAPI+%E2%80%A2+Node.js;%F0%9F%A4%96+Gen+AI+%7C+LangChain+%E2%80%A2+RAG+%E2%80%A2+LLMs;%F0%9F%A6%9C+Agentic+AI+%7C+CrewAI+%E2%80%A2+LangGraph+%E2%80%A2+AutoGen)](https://git.io/typing-svg)
 
 <br/>
 
@@ -26,7 +26,7 @@
 class AasimAnsari:
     def __init__(self):
         self.name        = "Mohd Aasim Ansari"
-        self.role        = ["Full Stack Data Scientist", "Gen AI Engineer", "Agentic AI Engineer"]
+        self.role        = "Full Stack Data Science with Gen AI & Agentic AI"
         self.expertise   = ["Full Stack Development", "Data Science", "Machine Learning",
                             "Deep Learning", "NLP", "Computer Vision",
                             "Gen AI", "RAG Pipelines", "Agentic AI", "Multi-Agent Systems"]
@@ -39,7 +39,7 @@ class AasimAnsari:
                                 "RAG", "Groq", "Ollama", "LlamaIndex"],
             "Agentic AI"     : ["CrewAI", "AutoGen", "LangGraph", "Multi-Agent Systems"],
         }
-        self.current_focus = "Building Full Stack Data Science products with Gen AI & Agentic AI"
+        self.current_focus = "Full Stack Data Science with Gen AI & Agentic AI"
         self.available     = True   # ✅ Open to Internship · Research · Freelance
 
     def __repr__(self):
