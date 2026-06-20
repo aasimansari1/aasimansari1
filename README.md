@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:0d0d0d,30:1a0a2e,60:0d1b3e,100:003366&amp;height=300&amp;section=header&amp;text=MOHD%20AASIM%20ANSARI&amp;fontSize=54&amp;fontColor=00D9FF&amp;animation=twinkling&amp;fontAlignY=42&amp;desc=%E2%9A%A1%20Full%20Stack%20Data%20Science%20with%20Gen%20AI%20%26%20Agentic%20AI%20%E2%9A%A1&amp;descAlignY=66&amp;descColor=BD00FF&amp;descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:0d0d0d,30:1a0a2e,60:0d1b3e,100:003366&amp;height=300&amp;section=header&amp;text=MOHD%20AASIM%20ANSARI&amp;fontSize=54&amp;fontColor=00D9FF&amp;animation=twinkling&amp;fontAlignY=42&amp;desc=%E2%9A%A1%20Full%20Stack%20Data%20Science%20with%20Gen%20AI%20and%20Agentic%20AI%20%E2%9A%A1&amp;descAlignY=66&amp;descColor=BD00FF&amp;descSize=18" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=800&amp;size=22&amp;pause=800&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=800&amp;lines=%F0%9F%9A%80+Full+Stack+Data+Science+with+Gen+AI+%26+Agentic+AI;%F0%9F%94%AC+Data+Science+%7C+ML+%E2%80%A2+Deep+Learning+%E2%80%A2+NLP;%F0%9F%8C%90+Full+Stack+%7C+React+%E2%80%A2+FastAPI+%E2%80%A2+Node.js;%F0%9F%A4%96+Gen+AI+%7C+LangChain+%E2%80%A2+RAG+%E2%80%A2+LLMs;%F0%9F%A6%9C+Agentic+AI+%7C+CrewAI+%E2%80%A2+LangGraph+%E2%80%A2+AutoGen)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=800&amp;size=22&amp;pause=800&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=800&amp;lines=%F0%9F%9A%80+Full+Stack+Data+Science+with+Gen+AI+and+Agentic+AI;%F0%9F%94%AC+Data+Science+%7C+ML+%E2%80%A2+Deep+Learning+%E2%80%A2+NLP;%F0%9F%8C%90+Full+Stack+%7C+React+%E2%80%A2+FastAPI+%E2%80%A2+Node.js;%F0%9F%A4%96+Gen+AI+%7C+LangChain+%E2%80%A2+RAG+%E2%80%A2+LLMs;%F0%9F%A6%9C+Agentic+AI+%7C+CrewAI+%E2%80%A2+LangGraph+%E2%80%A2+AutoGen)](https://git.io/typing-svg)
 
 <br/>
 
