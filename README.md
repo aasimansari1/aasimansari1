@@ -26,7 +26,7 @@
 class AasimAnsari:
     def __init__(self):
         self.name        = "Mohd Aasim Ansari"
-        self.role        = "Full Stack Data Science with Gen AI and Agentic AI"
+        self.role        = "Aspiring Data Scientist & AI Engineer"
         self.expertise   = ["Data Science", "Machine Learning", "Deep Learning",
                             "NLP", "Computer Vision", "Gen AI", "RAG Pipelines",
                             "Agentic AI", "Multi-Agent Systems", "Full Stack Development"]
