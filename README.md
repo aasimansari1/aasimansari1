@@ -40,12 +40,7 @@ class AasimAnsari:
                                 "TailwindCSS", "Flask", "TypeScript"],
         }
         self.current_focus = "Full Stack Data Science with Gen AI and Agentic AI"
-        self.open_to     = [
-            "Full-Time Roles",
-            "Internships",
-            "Open Source Contributions",
-            "Collaborations"
-        ]
+        self.open_to     = ["Full-Time Roles", "Internships", "Open Source Contributions", "Collaborations"]
 
     def __repr__(self):
         return "Always learning. Always building. Always delivering. 🚀"
