@@ -190,19 +190,19 @@ class AasimAnsari:
 <tr>
 <td width="50%">
 
-[![ChatNova AI](https://github-readme-stats-eight-sable.vercel.app/api/pin/?username=aasimansari1&amp;repo=chatnova-ai&amp;theme=tokyonight&amp;hide_border=true)](https://github.com/aasimansari1/chatnova-ai)
+[![SalesCast AI](https://github-readme-stats-eight-sable.vercel.app/api/pin/?username=aasimansari1&amp;repo=Sales-Forecasting-System&amp;theme=tokyonight&amp;hide_border=true)](https://github.com/aasimansari1/Sales-Forecasting-System)
 
 </td>
 <td width="50%">
 
-[![SalesCast AI](https://github-readme-stats-eight-sable.vercel.app/api/pin/?username=aasimansari1&amp;repo=Sales-Forecasting-System&amp;theme=tokyonight&amp;hide_border=true)](https://github.com/aasimansari1/Sales-Forecasting-System)
+[![Smart City Analytics](https://github-readme-stats-eight-sable.vercel.app/api/pin/?username=aasimansari1&amp;repo=smart-city-analytics-platform&amp;theme=tokyonight&amp;hide_border=true)](https://github.com/aasimansari1/smart-city-analytics-platform)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-[![AI Resume Screener](https://github-readme-stats-eight-sable.vercel.app/api/pin/?username=aasimansari1&amp;repo=Resume-Screening&amp;theme=tokyonight&amp;hide_border=true)](https://github.com/aasimansari1/Resume-Screening)
+[![AI Job Salary Estimator](https://github-readme-stats-eight-sable.vercel.app/api/pin/?username=aasimansari1&amp;repo=AI-Powered-Job-Salary-Estimator&amp;theme=tokyonight&amp;hide_border=true)](https://github.com/aasimansari1/AI-Powered-Job-Salary-Estimator)
 
 </td>
 <td width="50%">
@@ -214,24 +214,25 @@ class AasimAnsari:
 <tr>
 <td width="50%">
 
-[![Smart Traffic System](https://github-readme-stats-eight-sable.vercel.app/api/pin/?username=aasimansari1&amp;repo=smart-traffic-system&amp;theme=tokyonight&amp;hide_border=true)](https://github.com/aasimansari1/smart-traffic-system)
+[![AI Resume Screener](https://github-readme-stats-eight-sable.vercel.app/api/pin/?username=aasimansari1&amp;repo=Resume-Screening&amp;theme=tokyonight&amp;hide_border=true)](https://github.com/aasimansari1/Resume-Screening)
 
 </td>
 <td width="50%">
 
-[![Disaster Alert System](https://github-readme-stats-eight-sable.vercel.app/api/pin/?username=aasimansari1&amp;repo=disaster-alert-system&amp;theme=tokyonight&amp;hide_border=true)](https://github.com/aasimansari1/disaster-alert-system)
+[![Smart Traffic System](https://github-readme-stats-eight-sable.vercel.app/api/pin/?username=aasimansari1&amp;repo=smart-traffic-system&amp;theme=tokyonight&amp;hide_border=true)](https://github.com/aasimansari1/smart-traffic-system)
 
 </td>
 </tr>
 </table>
 
-| 💬 ChatNova AI | Full-stack ChatGPT SaaS with auth &amp; streaming | React · Node.js · OpenAI API |
-| 🤖 Agentic RAG Chatbot | Multi-agent RAG with memory &amp; tool use | LangChain · LangGraph · CrewAI |
-| 📈 SalesCast AI | AI forecasting · XGBoost · ARIMA · Prophet · LSTM | React · FastAPI · SQLite |
-| 🧠 ML Interview Prep | 500+ Q&amp;A · cheat sheets · system design | Python · PyTorch · scikit-learn |
-| 🤖 AI Resume Screener | Screen 100s of resumes instantly, rank by job fit | Python · spaCy · Flask |
-| 🚦 Smart Traffic System | YOLOv8 adaptive signals + emergency override | YOLOv8 · OpenCV |
-| 🚨 Disaster Alert System | Real-time geo alerts via Socket.IO + Leaflet | Socket.IO · MongoDB |
+| Project | What it does | Stack |
+|---|---|---|
+| 📈 SalesCast AI | Sales forecasting · 5 models · anomaly detection · RFM segmentation | XGBoost · ARIMA · Prophet · LSTM |
+| 🏙️ Smart City Analytics | Traffic, pollution, transport &amp; energy analytics with ML | Python · Pandas · scikit-learn |
+| 💸 AI Job Salary Estimator | Instant salary predictions from job features | XGBoost · LightGBM · CatBoost · Streamlit |
+| 📰 FakeShield | NLP fake-news detector · 95% accuracy · confidence scores | TF-IDF · scikit-learn · Flask |
+| 🤖 AI Resume Screener | Rank 100s of resumes by job relevance | Python · spaCy · Flask |
+| 🚦 Smart Traffic System | Dynamic signal control · emergency override | YOLOv8 · OpenCV · Computer Vision |
 
 </div>
 
