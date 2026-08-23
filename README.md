@@ -126,10 +126,10 @@ class AasimAnsari:
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aasimansari1&amp;theme=tokyonight&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true" width="100%"/>
+<img src="https://github-readme-stats-eight-sable.vercel.app/api?username=aasimansari1&amp;theme=tokyonight&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true" width="100%"/>
 </td>
 <td width="50%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aasimansari1&amp;theme=tokyonight&amp;show_icons=true&amp;hide_border=true&amp;layout=compact&amp;langs_count=10" width="100%"/>
+<img src="https://github-readme-stats-eight-sable.vercel.app/api/top-langs/?username=aasimansari1&amp;theme=tokyonight&amp;show_icons=true&amp;hide_border=true&amp;layout=compact&amp;langs_count=10" width="100%"/>
 </td>
 </tr>
 <tr>
@@ -190,36 +190,36 @@ class AasimAnsari:
 <tr>
 <td width="50%">
 
-[![ChatNova AI](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&amp;repo=chatnova-ai&amp;theme=tokyonight&amp;hide_border=true)](https://github.com/aasimansari1/chatnova-ai)
+[![ChatNova AI](https://github-readme-stats-eight-sable.vercel.app/api/pin/?username=aasimansari1&amp;repo=chatnova-ai&amp;theme=tokyonight&amp;hide_border=true)](https://github.com/aasimansari1/chatnova-ai)
 
 </td>
 <td width="50%">
 
-[![SalesCast AI](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&amp;repo=Sales-Forecasting-System&amp;theme=tokyonight&amp;hide_border=true)](https://github.com/aasimansari1/Sales-Forecasting-System)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-[![AI Resume Screener](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&amp;repo=Resume-Screening&amp;theme=tokyonight&amp;hide_border=true)](https://github.com/aasimansari1/Resume-Screening)
-
-</td>
-<td width="50%">
-
-[![Fake News Detector](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&amp;repo=fake-news-detector&amp;theme=tokyonight&amp;hide_border=true)](https://github.com/aasimansari1/fake-news-detector)
+[![SalesCast AI](https://github-readme-stats-eight-sable.vercel.app/api/pin/?username=aasimansari1&amp;repo=Sales-Forecasting-System&amp;theme=tokyonight&amp;hide_border=true)](https://github.com/aasimansari1/Sales-Forecasting-System)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-[![Smart Traffic System](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&amp;repo=smart-traffic-system&amp;theme=tokyonight&amp;hide_border=true)](https://github.com/aasimansari1/smart-traffic-system)
+[![AI Resume Screener](https://github-readme-stats-eight-sable.vercel.app/api/pin/?username=aasimansari1&amp;repo=Resume-Screening&amp;theme=tokyonight&amp;hide_border=true)](https://github.com/aasimansari1/Resume-Screening)
 
 </td>
 <td width="50%">
 
-[![Disaster Alert System](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aasimansari1&amp;repo=disaster-alert-system&amp;theme=tokyonight&amp;hide_border=true)](https://github.com/aasimansari1/disaster-alert-system)
+[![Fake News Detector](https://github-readme-stats-eight-sable.vercel.app/api/pin/?username=aasimansari1&amp;repo=fake-news-detector&amp;theme=tokyonight&amp;hide_border=true)](https://github.com/aasimansari1/fake-news-detector)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+[![Smart Traffic System](https://github-readme-stats-eight-sable.vercel.app/api/pin/?username=aasimansari1&amp;repo=smart-traffic-system&amp;theme=tokyonight&amp;hide_border=true)](https://github.com/aasimansari1/smart-traffic-system)
+
+</td>
+<td width="50%">
+
+[![Disaster Alert System](https://github-readme-stats-eight-sable.vercel.app/api/pin/?username=aasimansari1&amp;repo=disaster-alert-system&amp;theme=tokyonight&amp;hide_border=true)](https://github.com/aasimansari1/disaster-alert-system)
 
 </td>
 </tr>
