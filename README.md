@@ -139,7 +139,7 @@ class AasimAnsari:
 </tr>
 </table>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aasimansari1&amp;theme=github-compact&amp;hide_border=true&amp;area=true)](https://github.com/aasimansari1)
+[![Contribution Graph](https://ghchart.rshah.org/00D9FF/aasimansari1)](https://github.com/aasimansari1)
 
 <br/>
 
