@@ -96,13 +96,13 @@ class AasimAnsari:
 
 **📊 Data Analysis & Visualization**
 
-![Pandas](https://img.shields.io/badge/Pandas-00D9FF?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0D1117)
-![NumPy](https://img.shields.io/badge/NumPy-BD00FF?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0D1117)
-![SciPy](https://img.shields.io/badge/SciPy-FFD700?style=for-the-badge&logo=scipy&logoColor=white&labelColor=0D1117)
+![Pandas](https://img.shields.io/badge/🐼_Pandas-00D9FF?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0D1117)
+![NumPy](https://img.shields.io/badge/🔢_NumPy-BD00FF?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0D1117)
+![SciPy](https://img.shields.io/badge/🧪_SciPy-FFD700?style=for-the-badge&logo=scipy&logoColor=white&labelColor=0D1117)
 ![Matplotlib](https://img.shields.io/badge/📊_Matplotlib-00FF88?style=for-the-badge&labelColor=0D1117)
 ![Seaborn](https://img.shields.io/badge/📈_Seaborn-00D9FF?style=for-the-badge&labelColor=0D1117)
-![Plotly](https://img.shields.io/badge/Plotly-BD00FF?style=for-the-badge&logo=plotly&logoColor=white&labelColor=0D1117)
-![Jupyter](https://img.shields.io/badge/Jupyter-FFD700?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0D1117)
+![Plotly](https://img.shields.io/badge/📉_Plotly-BD00FF?style=for-the-badge&logo=plotly&logoColor=white&labelColor=0D1117)
+![Jupyter](https://img.shields.io/badge/📓_Jupyter-FFD700?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0D1117)
 ![Statistics](https://img.shields.io/badge/🧮_Statistics_&_EDA-00FF88?style=for-the-badge&labelColor=0D1117)
 
 **🤖 Machine Learning**
