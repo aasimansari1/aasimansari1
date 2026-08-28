@@ -107,8 +107,7 @@ class AasimAnsari:
 
 **🤖 Machine Learning**
 
-[![ML](https://skillicons.dev/icons?i=sklearn&theme=dark)](https://skillicons.dev)
-
+![scikit-learn](https://img.shields.io/badge/scikit--learn-FFD700?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0D1117)
 ![XGBoost](https://img.shields.io/badge/🌲_XGBoost-00D9FF?style=for-the-badge&labelColor=0D1117)
 ![LightGBM](https://img.shields.io/badge/💡_LightGBM-BD00FF?style=for-the-badge&labelColor=0D1117)
 ![Time Series](https://img.shields.io/badge/⏱️_ARIMA_|_Prophet_|_LSTM-00FF88?style=for-the-badge&labelColor=0D1117)
