@@ -98,11 +98,11 @@ class AasimAnsari:
 
 ![Pandas](https://img.shields.io/badge/Pandas-00D9FF?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0D1117)
 ![NumPy](https://img.shields.io/badge/NumPy-BD00FF?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0D1117)
-![SciPy](https://img.shields.io/badge/SciPy-FFD700?style=for-the-badge&logo=scipy&logoColor=black&labelColor=0D1117)
+![SciPy](https://img.shields.io/badge/SciPy-FFD700?style=for-the-badge&logo=scipy&logoColor=white&labelColor=0D1117)
 ![Matplotlib](https://img.shields.io/badge/📊_Matplotlib-00FF88?style=for-the-badge&labelColor=0D1117)
 ![Seaborn](https://img.shields.io/badge/📈_Seaborn-00D9FF?style=for-the-badge&labelColor=0D1117)
 ![Plotly](https://img.shields.io/badge/Plotly-BD00FF?style=for-the-badge&logo=plotly&logoColor=white&labelColor=0D1117)
-![Jupyter](https://img.shields.io/badge/Jupyter-FFD700?style=for-the-badge&logo=jupyter&logoColor=black&labelColor=0D1117)
+![Jupyter](https://img.shields.io/badge/Jupyter-FFD700?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0D1117)
 ![Statistics](https://img.shields.io/badge/🧮_Statistics_&_EDA-00FF88?style=for-the-badge&labelColor=0D1117)
 
 **🤖 Machine Learning**
@@ -120,8 +120,8 @@ class AasimAnsari:
 
 [![DL](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark)](https://skillicons.dev)
 
-![Keras](https://img.shields.io/badge/Keras-FFD700?style=for-the-badge&logo=keras&logoColor=black&labelColor=0D1117)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FF88?style=for-the-badge&logo=yolo&logoColor=black&labelColor=0D1117)
+![Keras](https://img.shields.io/badge/Keras-FFD700?style=for-the-badge&logo=keras&logoColor=white&labelColor=0D1117)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FF88?style=for-the-badge&logo=yolo&logoColor=white&labelColor=0D1117)
 ![spaCy](https://img.shields.io/badge/spaCy-00D9FF?style=for-the-badge&logo=spacy&logoColor=white&labelColor=0D1117)
 ![NLTK](https://img.shields.io/badge/🔤_NLTK-BD00FF?style=for-the-badge&labelColor=0D1117)
 ![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD700?style=for-the-badge&labelColor=0D1117)
@@ -129,8 +129,8 @@ class AasimAnsari:
 **✨ Gen AI**
 
 ![OpenAI](https://img.shields.io/badge/🧠_OpenAI_API-00D9FF?style=for-the-badge&labelColor=0D1117)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD700?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0D1117)
-![LangChain](https://img.shields.io/badge/LangChain-00FF88?style=for-the-badge&logo=langchain&logoColor=black&labelColor=0D1117)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD700?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=0D1117)
+![LangChain](https://img.shields.io/badge/LangChain-00FF88?style=for-the-badge&logo=langchain&logoColor=white&labelColor=0D1117)
 ![LlamaIndex](https://img.shields.io/badge/🦙_LlamaIndex-BD00FF?style=for-the-badge&labelColor=0D1117)
 ![RAG](https://img.shields.io/badge/🔍_RAG_Pipelines-00D9FF?style=for-the-badge&labelColor=0D1117)
 ![Vector DBs](https://img.shields.io/badge/🗂️_ChromaDB_|_FAISS-FFD700?style=for-the-badge&labelColor=0D1117)
@@ -143,9 +143,9 @@ class AasimAnsari:
 **🦾 Agentic AI**
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-00D9FF?style=for-the-badge&logo=langgraph&logoColor=white&labelColor=0D1117)
-![CrewAI](https://img.shields.io/badge/CrewAI-FFD700?style=for-the-badge&logo=crewai&logoColor=black&labelColor=0D1117)
+![CrewAI](https://img.shields.io/badge/CrewAI-FFD700?style=for-the-badge&logo=crewai&logoColor=white&labelColor=0D1117)
 ![AutoGen](https://img.shields.io/badge/🤖_AutoGen-BD00FF?style=for-the-badge&labelColor=0D1117)
-![MCP](https://img.shields.io/badge/MCP-00FF88?style=for-the-badge&logo=modelcontextprotocol&logoColor=black&labelColor=0D1117)
+![MCP](https://img.shields.io/badge/MCP-00FF88?style=for-the-badge&logo=modelcontextprotocol&logoColor=white&labelColor=0D1117)
 ![Tool Calling](https://img.shields.io/badge/🛠️_Tool_Calling-00D9FF?style=for-the-badge&labelColor=0D1117)
 ![ReAct](https://img.shields.io/badge/🧭_ReAct_&_Planning-FFD700?style=for-the-badge&labelColor=0D1117)
 ![Memory](https://img.shields.io/badge/💾_Agent_Memory-BD00FF?style=for-the-badge&labelColor=0D1117)
@@ -156,9 +156,9 @@ class AasimAnsari:
 [![Web](https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask,vite,tailwind&theme=dark)](https://skillicons.dev)
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-00D9FF?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0D1117)
-![Gradio](https://img.shields.io/badge/Gradio-FFD700?style=for-the-badge&logo=gradio&logoColor=black&labelColor=0D1117)
+![Gradio](https://img.shields.io/badge/Gradio-FFD700?style=for-the-badge&logo=gradio&logoColor=white&labelColor=0D1117)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-BD00FF?style=for-the-badge&logo=socketdotio&logoColor=white&labelColor=0D1117)
-![JWT](https://img.shields.io/badge/JWT_Auth-00FF88?style=for-the-badge&logo=jsonwebtokens&logoColor=black&labelColor=0D1117)
+![JWT](https://img.shields.io/badge/JWT_Auth-00FF88?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=0D1117)
 ![REST](https://img.shields.io/badge/🔌_REST_APIs-00D9FF?style=for-the-badge&labelColor=0D1117)
 
 **🚀 MLOps & Deployment**
@@ -167,8 +167,8 @@ class AasimAnsari:
 
 ![MLflow](https://img.shields.io/badge/MLflow-00D9FF?style=for-the-badge&logo=mlflow&logoColor=white&labelColor=0D1117)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-BD00FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0D1117)
-![Render](https://img.shields.io/badge/Render-FFD700?style=for-the-badge&logo=render&logoColor=black&labelColor=0D1117)
-![Vercel](https://img.shields.io/badge/Vercel-00FF88?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D1117)
+![Render](https://img.shields.io/badge/Render-FFD700?style=for-the-badge&logo=render&logoColor=white&labelColor=0D1117)
+![Vercel](https://img.shields.io/badge/Vercel-00FF88?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)
 ![HF Spaces](https://img.shields.io/badge/🤗_HF_Spaces-00D9FF?style=for-the-badge&labelColor=0D1117)
 
 **🧰 Tools**
