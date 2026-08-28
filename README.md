@@ -207,7 +207,6 @@ class AasimAnsari:
 <td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=render" width="44" height="44" alt="Render"/><br><sub><b>Render ⭐</b></sub></td>
 </tr>
 <tr>
-<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=vercel" width="44" height="44" alt="Vercel"/><br><sub><b>Vercel</b></sub></td>
 </tr>
 </table>
 
