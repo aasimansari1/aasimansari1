@@ -88,65 +88,67 @@ class AasimAnsari:
 
 <div align="center">
 
-<i>The full pipeline — from raw data to deployed agents</i>
+<i>The full pipeline — from raw data to deployed agents · ⭐ marks what I have shipped in a project</i>
 
-**🐍 Languages & Databases**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:BD00FF,100:00FF88&height=3&section=header" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&height=44&section=header&fontSize=20&fontColor=0D1117&fontAlignY=52&text=Languages%20%C2%B7%20Databases&color=0:00D9FF,100:BD00FF" width="640"/>
 
 <table>
 <tr>
-<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=python" width="44" height="44" alt="Python"/><br><sub><b>Python</b></sub></td>
-<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=js" width="44" height="44" alt="JavaScript"/><br><sub><b>JavaScript</b></sub></td>
-<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=ts" width="44" height="44" alt="TypeScript"/><br><sub><b>TypeScript</b></sub></td>
+<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=python" width="44" height="44" alt="Python"/><br><sub><b>Python ⭐</b></sub></td>
+<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=js" width="44" height="44" alt="JavaScript"/><br><sub><b>JavaScript ⭐</b></sub></td>
+<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=ts" width="44" height="44" alt="TypeScript"/><br><sub><b>TypeScript ⭐</b></sub></td>
 <td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=bash" width="44" height="44" alt="Bash"/><br><sub><b>Bash</b></sub></td>
 <td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" width="44" height="44" alt="MySQL"/><br><sub><b>MySQL</b></sub></td>
-<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres" width="44" height="44" alt="PostgreSQL"/><br><sub><b>PostgreSQL</b></sub></td>
-<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" width="44" height="44" alt="MongoDB"/><br><sub><b>MongoDB</b></sub></td>
+<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres" width="44" height="44" alt="PostgreSQL"/><br><sub><b>PostgreSQL ⭐</b></sub></td>
+<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" width="44" height="44" alt="MongoDB"/><br><sub><b>MongoDB ⭐</b></sub></td>
 </tr>
 </table>
 
-**📊 Data Analysis & Visualization**
+<img src="https://capsule-render.vercel.app/api?type=soft&height=44&section=header&fontSize=20&fontColor=0D1117&fontAlignY=52&text=Data%20Analysis%20%C2%B7%20Visualization&color=0:BD00FF,100:FFD700" width="640"/>
 
 <table>
 <tr>
-<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" width="44" height="44" alt="Pandas"/><br><sub><b>Pandas</b></sub></td>
-<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" width="44" height="44" alt="NumPy"/><br><sub><b>NumPy</b></sub></td>
+<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" width="44" height="44" alt="Pandas"/><br><sub><b>Pandas ⭐</b></sub></td>
+<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" width="44" height="44" alt="NumPy"/><br><sub><b>NumPy ⭐</b></sub></td>
 <td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=scipy" width="44" height="44" alt="SciPy"/><br><sub><b>SciPy</b></sub></td>
-<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" width="44" height="44" alt="Matplotlib"/><br><sub><b>Matplotlib</b></sub></td>
-<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn" width="44" height="44" alt="Seaborn"/><br><sub><b>Seaborn</b></sub></td>
-<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=plotly" width="44" height="44" alt="Plotly"/><br><sub><b>Plotly</b></sub></td>
-<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" width="44" height="44" alt="Jupyter"/><br><sub><b>Jupyter</b></sub></td>
+<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" width="44" height="44" alt="Matplotlib"/><br><sub><b>Matplotlib ⭐</b></sub></td>
+<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn" width="44" height="44" alt="Seaborn"/><br><sub><b>Seaborn ⭐</b></sub></td>
+<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=plotly" width="44" height="44" alt="Plotly"/><br><sub><b>Plotly ⭐</b></sub></td>
+<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" width="44" height="44" alt="Jupyter"/><br><sub><b>Jupyter ⭐</b></sub></td>
 </tr>
 </table>
 
-<sub><i>Statistics &amp; EDA</i></sub>
+![Statistics & EDA](https://img.shields.io/badge/Statistics_&_EDA-00D9FF?style=for-the-badge&labelColor=0D1117)
 
-**🤖 Machine Learning**
+<img src="https://capsule-render.vercel.app/api?type=soft&height=44&section=header&fontSize=20&fontColor=0D1117&fontAlignY=52&text=Machine%20Learning&color=0:FFD700,100:00FF88" width="640"/>
 
 <table>
 <tr>
-<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn" width="44" height="44" alt="scikit-learn"/><br><sub><b>scikit-learn</b></sub></td>
+<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn" width="44" height="44" alt="scikit-learn"/><br><sub><b>scikit-learn ⭐</b></sub></td>
 </tr>
 </table>
 
-<sub><i>XGBoost · LightGBM · ARIMA | Prophet | LSTM · Feature Engineering</i></sub>
+![XGBoost](https://img.shields.io/badge/XGBoost-00D9FF?style=for-the-badge&labelColor=0D1117) ![LightGBM](https://img.shields.io/badge/LightGBM-BD00FF?style=for-the-badge&labelColor=0D1117) ![Time Series](https://img.shields.io/badge/Time_Series-FFD700?style=for-the-badge&labelColor=0D1117) ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-00FF88?style=for-the-badge&labelColor=0D1117)
 
-**🧠 Deep Learning · Computer Vision · NLP**
+<img src="https://capsule-render.vercel.app/api?type=soft&height=44&section=header&fontSize=20&fontColor=0D1117&fontAlignY=52&text=Deep%20Learning%20%C2%B7%20Computer%20Vision%20%C2%B7%20NLP&color=0:00FF88,100:00D9FF" width="640"/>
 
 <table>
 <tr>
 <td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow" width="44" height="44" alt="TensorFlow"/><br><sub><b>TensorFlow</b></sub></td>
 <td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch" width="44" height="44" alt="PyTorch"/><br><sub><b>PyTorch</b></sub></td>
-<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=opencv" width="44" height="44" alt="OpenCV"/><br><sub><b>OpenCV</b></sub></td>
+<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=opencv" width="44" height="44" alt="OpenCV"/><br><sub><b>OpenCV ⭐</b></sub></td>
 </tr>
 </table>
 
-<sub><i>Keras · YOLOv8 · spaCy · NLTK · Transformers</i></sub>
+![Keras](https://img.shields.io/badge/Keras-00D9FF?style=for-the-badge&labelColor=0D1117) ![YOLOv8](https://img.shields.io/badge/YOLOv8-BD00FF?style=for-the-badge&labelColor=0D1117) ![spaCy](https://img.shields.io/badge/spaCy-FFD700?style=for-the-badge&labelColor=0D1117) ![NLTK](https://img.shields.io/badge/NLTK-00FF88?style=for-the-badge&labelColor=0D1117) ![Transformers](https://img.shields.io/badge/Transformers-00D9FF?style=for-the-badge&labelColor=0D1117)
 
-**✨ Gen AI**
+<img src="https://capsule-render.vercel.app/api?type=soft&height=44&section=header&fontSize=20&fontColor=0D1117&fontAlignY=52&text=Gen%20AI&color=0:00D9FF,100:BD00FF" width="640"/>
 
 <table>
 <tr>
-<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" width="44" height="44" alt="OpenAI"/><br><sub><b>OpenAI</b></sub></td>
+<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" width="44" height="44" alt="OpenAI"/><br><sub><b>OpenAI ⭐</b></sub></td>
 <td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" width="44" height="44" alt="HuggingFace"/><br><sub><b>HuggingFace</b></sub></td>
 <td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" width="44" height="44" alt="LangChain"/><br><sub><b>LangChain</b></sub></td>
 <td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=llamaindex" width="44" height="44" alt="LlamaIndex"/><br><sub><b>LlamaIndex</b></sub></td>
@@ -155,9 +157,9 @@ class AasimAnsari:
 </tr>
 </table>
 
-<sub><i>RAG Pipelines · ChromaDB | FAISS · Embeddings · Prompt Engineering · Fine Tuning</i></sub>
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-00D9FF?style=for-the-badge&labelColor=0D1117) ![Vector DBs](https://img.shields.io/badge/Vector_DBs-BD00FF?style=for-the-badge&labelColor=0D1117) ![Embeddings](https://img.shields.io/badge/Embeddings-FFD700?style=for-the-badge&labelColor=0D1117) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00FF88?style=for-the-badge&labelColor=0D1117) ![Fine Tuning](https://img.shields.io/badge/Fine_Tuning-00D9FF?style=for-the-badge&labelColor=0D1117)
 
-**🦾 Agentic AI**
+<img src="https://capsule-render.vercel.app/api?type=soft&height=44&section=header&fontSize=20&fontColor=0D1117&fontAlignY=52&text=Agentic%20AI&color=0:00FF88,100:BD00FF" width="640"/>
 
 <table>
 <tr>
@@ -166,49 +168,49 @@ class AasimAnsari:
 </tr>
 </table>
 
-<sub><i>LangGraph · Tool Calling · Multi-Agent Systems</i></sub>
+![LangGraph](https://img.shields.io/badge/LangGraph-00D9FF?style=for-the-badge&labelColor=0D1117) ![Tool Calling](https://img.shields.io/badge/Tool_Calling-BD00FF?style=for-the-badge&labelColor=0D1117) ![Multi Agent Systems](https://img.shields.io/badge/Multi_Agent_Systems-FFD700?style=for-the-badge&labelColor=0D1117)
 
-**🌐 Full Stack Development**
+<img src="https://capsule-render.vercel.app/api?type=soft&height=44&section=header&fontSize=20&fontColor=0D1117&fontAlignY=52&text=Full%20Stack%20Development&color=0:FFD700,100:00D9FF" width="640"/>
 
 <table>
 <tr>
-<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=react" width="44" height="44" alt="React"/><br><sub><b>React</b></sub></td>
-<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" width="44" height="44" alt="Node.js"/><br><sub><b>Node.js</b></sub></td>
-<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=express" width="44" height="44" alt="Express"/><br><sub><b>Express</b></sub></td>
-<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi" width="44" height="44" alt="FastAPI"/><br><sub><b>FastAPI</b></sub></td>
-<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=flask" width="44" height="44" alt="Flask"/><br><sub><b>Flask</b></sub></td>
-<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=vite" width="44" height="44" alt="Vite"/><br><sub><b>Vite</b></sub></td>
-<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind" width="44" height="44" alt="Tailwind"/><br><sub><b>Tailwind</b></sub></td>
+<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=react" width="44" height="44" alt="React"/><br><sub><b>React ⭐</b></sub></td>
+<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" width="44" height="44" alt="Node.js"/><br><sub><b>Node.js ⭐</b></sub></td>
+<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=express" width="44" height="44" alt="Express"/><br><sub><b>Express ⭐</b></sub></td>
+<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi" width="44" height="44" alt="FastAPI"/><br><sub><b>FastAPI ⭐</b></sub></td>
+<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=flask" width="44" height="44" alt="Flask"/><br><sub><b>Flask ⭐</b></sub></td>
+<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=vite" width="44" height="44" alt="Vite"/><br><sub><b>Vite ⭐</b></sub></td>
+<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind" width="44" height="44" alt="Tailwind"/><br><sub><b>Tailwind ⭐</b></sub></td>
 </tr>
 <tr>
-<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=streamlit" width="44" height="44" alt="Streamlit"/><br><sub><b>Streamlit</b></sub></td>
-<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=socketio" width="44" height="44" alt="Socket.IO"/><br><sub><b>Socket.IO</b></sub></td>
-<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=jwt" width="44" height="44" alt="JWT"/><br><sub><b>JWT</b></sub></td>
+<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=streamlit" width="44" height="44" alt="Streamlit"/><br><sub><b>Streamlit ⭐</b></sub></td>
+<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=socketio" width="44" height="44" alt="Socket.IO"/><br><sub><b>Socket.IO ⭐</b></sub></td>
+<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=jwt" width="44" height="44" alt="JWT"/><br><sub><b>JWT ⭐</b></sub></td>
 </tr>
 </table>
 
-<sub><i>REST APIs</i></sub>
+![REST APIs](https://img.shields.io/badge/REST_APIs-00D9FF?style=for-the-badge&labelColor=0D1117)
 
-**🚀 MLOps & Deployment**
+<img src="https://capsule-render.vercel.app/api?type=soft&height=44&section=header&fontSize=20&fontColor=0D1117&fontAlignY=52&text=MLOps%20%C2%B7%20Deployment&color=0:00D9FF,100:00FF88" width="640"/>
 
 <table>
 <tr>
-<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker" width="44" height="44" alt="Docker"/><br><sub><b>Docker</b></sub></td>
-<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=git" width="44" height="44" alt="Git"/><br><sub><b>Git</b></sub></td>
-<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" width="44" height="44" alt="GitHub"/><br><sub><b>GitHub</b></sub></td>
-<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=linux" width="44" height="44" alt="Linux"/><br><sub><b>Linux</b></sub></td>
+<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker" width="44" height="44" alt="Docker"/><br><sub><b>Docker ⭐</b></sub></td>
+<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=git" width="44" height="44" alt="Git"/><br><sub><b>Git ⭐</b></sub></td>
+<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" width="44" height="44" alt="GitHub"/><br><sub><b>GitHub ⭐</b></sub></td>
+<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=linux" width="44" height="44" alt="Linux"/><br><sub><b>Linux ⭐</b></sub></td>
 <td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=mlflow" width="44" height="44" alt="MLflow"/><br><sub><b>MLflow</b></sub></td>
-<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions" width="44" height="44" alt="Actions"/><br><sub><b>Actions</b></sub></td>
-<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=render" width="44" height="44" alt="Render"/><br><sub><b>Render</b></sub></td>
+<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions" width="44" height="44" alt="Actions"/><br><sub><b>Actions ⭐</b></sub></td>
+<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=render" width="44" height="44" alt="Render"/><br><sub><b>Render ⭐</b></sub></td>
 </tr>
 <tr>
 <td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=vercel" width="44" height="44" alt="Vercel"/><br><sub><b>Vercel</b></sub></td>
 </tr>
 </table>
 
-<sub><i>Hugging Face Spaces</i></sub>
+![HF Spaces](https://img.shields.io/badge/HF_Spaces-00D9FF?style=for-the-badge&labelColor=0D1117)
 
-**🧰 Tools**
+<img src="https://capsule-render.vercel.app/api?type=soft&height=44&section=header&fontSize=20&fontColor=0D1117&fontAlignY=52&text=Tools&color=0:BD00FF,100:FFD700" width="640"/>
 
 <table>
 <tr>
@@ -219,6 +221,7 @@ class AasimAnsari:
 </tr>
 </table>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:BD00FF,100:00FF88&height=3&section=header" width="100%"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
