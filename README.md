@@ -129,6 +129,7 @@ class AasimAnsari:
 <td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn" width="44" height="44" alt="scikit-learn"/><br><sub><b>scikit-learn ⭐</b></sub></td>
 <td align="center" width="92"><img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" width="72" alt="XGBoost"/><br><sub><b>XGBoost ⭐</b></sub></td>
 <td align="center" width="92"><img src="https://raw.githubusercontent.com/microsoft/LightGBM/master/docs/logo/LightGBM_logo_no_text.svg" width="44" height="44" alt="LightGBM"/><br><sub><b>LightGBM ⭐</b></sub></td>
+<td align="center" width="92"><img src="https://avatars.githubusercontent.com/u/29043415?s=200&v=4" width="44" height="44" alt="CatBoost"/><br><sub><b>CatBoost ⭐</b></sub></td>
 </tr>
 </table>
 
