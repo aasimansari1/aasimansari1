@@ -174,20 +174,25 @@ class AasimAnsari:
 
 ![Tool Calling](https://img.shields.io/badge/Tool_Calling-BD00FF?style=for-the-badge&labelColor=0D1117) ![Multi Agent Systems](https://img.shields.io/badge/Multi_Agent_Systems-FFD700?style=for-the-badge&labelColor=0D1117)
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=44&section=header&fontSize=20&fontColor=0D1117&fontAlignY=52&text=Full%20Stack%20Development&color=0:FFD700,100:00D9FF" width="640"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=44&section=header&fontSize=20&fontColor=0D1117&fontAlignY=52&text=Frontend&color=0:FFD700,100:00D9FF" width="640"/>
 
 <table>
 <tr>
 <td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=react" width="44" height="44" alt="React"/><br><sub><b>React ⭐</b></sub></td>
+<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=vite" width="44" height="44" alt="Vite"/><br><sub><b>Vite ⭐</b></sub></td>
+<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind" width="44" height="44" alt="Tailwind"/><br><sub><b>Tailwind ⭐</b></sub></td>
+<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=streamlit" width="44" height="44" alt="Streamlit"/><br><sub><b>Streamlit ⭐</b></sub></td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&height=44&section=header&fontSize=20&fontColor=0D1117&fontAlignY=52&text=Backend%20%C2%B7%20APIs&color=0:00D9FF,100:FFD700" width="640"/>
+
+<table>
+<tr>
 <td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" width="44" height="44" alt="Node.js"/><br><sub><b>Node.js ⭐</b></sub></td>
 <td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=express" width="44" height="44" alt="Express"/><br><sub><b>Express ⭐</b></sub></td>
 <td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi" width="44" height="44" alt="FastAPI"/><br><sub><b>FastAPI ⭐</b></sub></td>
 <td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=flask" width="44" height="44" alt="Flask"/><br><sub><b>Flask ⭐</b></sub></td>
-<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=vite" width="44" height="44" alt="Vite"/><br><sub><b>Vite ⭐</b></sub></td>
-<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind" width="44" height="44" alt="Tailwind"/><br><sub><b>Tailwind ⭐</b></sub></td>
-</tr>
-<tr>
-<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=streamlit" width="44" height="44" alt="Streamlit"/><br><sub><b>Streamlit ⭐</b></sub></td>
 <td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=socketio" width="44" height="44" alt="Socket.IO"/><br><sub><b>Socket.IO ⭐</b></sub></td>
 <td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=jwt" width="44" height="44" alt="JWT"/><br><sub><b>JWT ⭐</b></sub></td>
 </tr>
