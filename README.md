@@ -111,9 +111,7 @@ class AasimAnsari:
 
 ![XGBoost](https://img.shields.io/badge/🌲_XGBoost-00D9FF?style=for-the-badge&labelColor=0D1117)
 ![LightGBM](https://img.shields.io/badge/💡_LightGBM-BD00FF?style=for-the-badge&labelColor=0D1117)
-![CatBoost](https://img.shields.io/badge/🐈_CatBoost-FFD700?style=for-the-badge&labelColor=0D1117)
 ![Time Series](https://img.shields.io/badge/⏱️_ARIMA_|_Prophet_|_LSTM-00FF88?style=for-the-badge&labelColor=0D1117)
-![Optuna](https://img.shields.io/badge/Optuna-00D9FF?style=for-the-badge&logo=optuna&logoColor=white&labelColor=0D1117)
 ![Feature Engineering](https://img.shields.io/badge/🔧_Feature_Engineering-BD00FF?style=for-the-badge&labelColor=0D1117)
 
 **🧠 Deep Learning · Computer Vision · NLP**
@@ -138,17 +136,12 @@ class AasimAnsari:
 ![Ollama](https://img.shields.io/badge/Ollama-BD00FF?style=for-the-badge&logo=ollama&logoColor=white&labelColor=0D1117)
 ![Groq](https://img.shields.io/badge/⚡_Groq-00D9FF?style=for-the-badge&labelColor=0D1117)
 ![Prompt Engineering](https://img.shields.io/badge/✍️_Prompt_Engineering-FFD700?style=for-the-badge&labelColor=0D1117)
-![Fine Tuning](https://img.shields.io/badge/🎛️_Fine_Tuning_|_LoRA-00FF88?style=for-the-badge&labelColor=0D1117)
 
 **🦾 Agentic AI**
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-00D9FF?style=for-the-badge&logo=langgraph&logoColor=white&labelColor=0D1117)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FFD700?style=for-the-badge&logo=crewai&logoColor=white&labelColor=0D1117)
-![AutoGen](https://img.shields.io/badge/🤖_AutoGen-BD00FF?style=for-the-badge&labelColor=0D1117)
-![MCP](https://img.shields.io/badge/MCP-00FF88?style=for-the-badge&logo=modelcontextprotocol&logoColor=white&labelColor=0D1117)
 ![Tool Calling](https://img.shields.io/badge/🛠️_Tool_Calling-00D9FF?style=for-the-badge&labelColor=0D1117)
-![ReAct](https://img.shields.io/badge/🧭_ReAct_&_Planning-FFD700?style=for-the-badge&labelColor=0D1117)
-![Memory](https://img.shields.io/badge/💾_Agent_Memory-BD00FF?style=for-the-badge&labelColor=0D1117)
 ![Multi Agent](https://img.shields.io/badge/👥_Multi_Agent_Systems-00FF88?style=for-the-badge&labelColor=0D1117)
 
 **🌐 Full Stack Development**
@@ -156,7 +149,6 @@ class AasimAnsari:
 [![Web](https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask,vite,tailwind&theme=dark)](https://skillicons.dev)
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-00D9FF?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0D1117)
-![Gradio](https://img.shields.io/badge/Gradio-FFD700?style=for-the-badge&logo=gradio&logoColor=white&labelColor=0D1117)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-BD00FF?style=for-the-badge&logo=socketdotio&logoColor=white&labelColor=0D1117)
 ![JWT](https://img.shields.io/badge/JWT_Auth-00FF88?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=0D1117)
 ![REST](https://img.shields.io/badge/🔌_REST_APIs-00D9FF?style=for-the-badge&labelColor=0D1117)
