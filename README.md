@@ -136,6 +136,7 @@ class AasimAnsari:
 ![Ollama](https://img.shields.io/badge/Ollama-BD00FF?style=for-the-badge&logo=ollama&logoColor=white&labelColor=0D1117)
 ![Groq](https://img.shields.io/badge/⚡_Groq-00D9FF?style=for-the-badge&labelColor=0D1117)
 ![Prompt Engineering](https://img.shields.io/badge/✍️_Prompt_Engineering-FFD700?style=for-the-badge&labelColor=0D1117)
+![Fine Tuning](https://img.shields.io/badge/🎛️_Fine_Tuning-00FF88?style=for-the-badge&labelColor=0D1117)
 
 **🦾 Agentic AI**
 
