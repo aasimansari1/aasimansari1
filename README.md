@@ -97,8 +97,8 @@ class AasimAnsari:
 ![Pandas](https://img.shields.io/badge/Pandas-00D9FF?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0D1117)
 ![NumPy](https://img.shields.io/badge/NumPy-BD00FF?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0D1117)
 ![SciPy](https://img.shields.io/badge/SciPy-FFD700?style=for-the-badge&logo=scipy&logoColor=black&labelColor=0D1117)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-00FF88?style=for-the-badge&labelColor=0D1117)
-![Seaborn](https://img.shields.io/badge/Seaborn-00D9FF?style=for-the-badge&labelColor=0D1117)
+![Matplotlib](https://img.shields.io/badge/📊_Matplotlib-00FF88?style=for-the-badge&labelColor=0D1117)
+![Seaborn](https://img.shields.io/badge/📈_Seaborn-00D9FF?style=for-the-badge&labelColor=0D1117)
 ![Plotly](https://img.shields.io/badge/Plotly-BD00FF?style=for-the-badge&logo=plotly&logoColor=white&labelColor=0D1117)
 ![Jupyter](https://img.shields.io/badge/Jupyter-FFD700?style=for-the-badge&logo=jupyter&logoColor=black&labelColor=0D1117)
 ![Streamlit](https://img.shields.io/badge/Streamlit-00FF88?style=for-the-badge&logo=streamlit&logoColor=black&labelColor=0D1117)
@@ -107,34 +107,34 @@ class AasimAnsari:
 
 [![ML Stack](https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,opencv&theme=dark)](https://skillicons.dev)
 
-![XGBoost](https://img.shields.io/badge/XGBoost-00D9FF?style=for-the-badge&labelColor=0D1117)
-![LightGBM](https://img.shields.io/badge/LightGBM-BD00FF?style=for-the-badge&labelColor=0D1117)
+![XGBoost](https://img.shields.io/badge/🌲_XGBoost-00D9FF?style=for-the-badge&labelColor=0D1117)
+![LightGBM](https://img.shields.io/badge/💡_LightGBM-BD00FF?style=for-the-badge&labelColor=0D1117)
 ![Keras](https://img.shields.io/badge/Keras-FFD700?style=for-the-badge&logo=keras&logoColor=black&labelColor=0D1117)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FF88?style=for-the-badge&labelColor=0D1117)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FF88?style=for-the-badge&logo=yolo&logoColor=black&labelColor=0D1117)
 ![spaCy](https://img.shields.io/badge/spaCy-00D9FF?style=for-the-badge&logo=spacy&logoColor=white&labelColor=0D1117)
-![NLTK](https://img.shields.io/badge/NLTK-BD00FF?style=for-the-badge&labelColor=0D1117)
+![NLTK](https://img.shields.io/badge/🔤_NLTK-BD00FF?style=for-the-badge&labelColor=0D1117)
 
 **Gen AI**
 
-![OpenAI](https://img.shields.io/badge/OpenAI_API-00D9FF?style=for-the-badge&labelColor=0D1117)
+![OpenAI](https://img.shields.io/badge/🧠_OpenAI_API-00D9FF?style=for-the-badge&labelColor=0D1117)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD700?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0D1117)
-![Transformers](https://img.shields.io/badge/Transformers-BD00FF?style=for-the-badge&labelColor=0D1117)
+![Transformers](https://img.shields.io/badge/🤗_Transformers-BD00FF?style=for-the-badge&labelColor=0D1117)
 ![LangChain](https://img.shields.io/badge/LangChain-00FF88?style=for-the-badge&logo=langchain&logoColor=black&labelColor=0D1117)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-00D9FF?style=for-the-badge&labelColor=0D1117)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-BD00FF?style=for-the-badge&labelColor=0D1117)
-![Vector DBs](https://img.shields.io/badge/Vector_DBs-FFD700?style=for-the-badge&labelColor=0D1117)
+![LlamaIndex](https://img.shields.io/badge/🦙_LlamaIndex-00D9FF?style=for-the-badge&labelColor=0D1117)
+![RAG](https://img.shields.io/badge/🔍_RAG_Pipelines-BD00FF?style=for-the-badge&labelColor=0D1117)
+![Vector DBs](https://img.shields.io/badge/🗂️_Vector_DBs-FFD700?style=for-the-badge&labelColor=0D1117)
 ![Ollama](https://img.shields.io/badge/Ollama-00FF88?style=for-the-badge&logo=ollama&logoColor=black&labelColor=0D1117)
-![Groq](https://img.shields.io/badge/Groq-00D9FF?style=for-the-badge&labelColor=0D1117)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-BD00FF?style=for-the-badge&labelColor=0D1117)
+![Groq](https://img.shields.io/badge/⚡_Groq-00D9FF?style=for-the-badge&labelColor=0D1117)
+![Prompt Engineering](https://img.shields.io/badge/✍️_Prompt_Engineering-BD00FF?style=for-the-badge&labelColor=0D1117)
 
 **Agentic AI**
 
-![LangGraph](https://img.shields.io/badge/LangGraph-00D9FF?style=for-the-badge&labelColor=0D1117)
-![CrewAI](https://img.shields.io/badge/CrewAI-FFD700?style=for-the-badge&labelColor=0D1117)
-![AutoGen](https://img.shields.io/badge/AutoGen-BD00FF?style=for-the-badge&labelColor=0D1117)
-![MCP](https://img.shields.io/badge/MCP-00FF88?style=for-the-badge&labelColor=0D1117)
-![Tool Calling](https://img.shields.io/badge/Tool_Calling-00D9FF?style=for-the-badge&labelColor=0D1117)
-![Multi Agent](https://img.shields.io/badge/Multi_Agent_Systems-BD00FF?style=for-the-badge&labelColor=0D1117)
+![LangGraph](https://img.shields.io/badge/LangGraph-00D9FF?style=for-the-badge&logo=langgraph&logoColor=white&labelColor=0D1117)
+![CrewAI](https://img.shields.io/badge/CrewAI-FFD700?style=for-the-badge&logo=crewai&logoColor=black&labelColor=0D1117)
+![AutoGen](https://img.shields.io/badge/🤖_AutoGen-BD00FF?style=for-the-badge&labelColor=0D1117)
+![MCP](https://img.shields.io/badge/MCP-00FF88?style=for-the-badge&logo=modelcontextprotocol&logoColor=black&labelColor=0D1117)
+![Tool Calling](https://img.shields.io/badge/🛠️_Tool_Calling-00D9FF?style=for-the-badge&labelColor=0D1117)
+![Multi Agent](https://img.shields.io/badge/👥_Multi_Agent_Systems-BD00FF?style=for-the-badge&labelColor=0D1117)
 
 **Full Stack Development**
 
