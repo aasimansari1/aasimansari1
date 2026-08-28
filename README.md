@@ -92,7 +92,13 @@ class AasimAnsari:
 
 **🐍 Languages & Databases**
 
-[![Languages](https://skillicons.dev/icons?i=python,js,ts,bash,mysql,postgres,mongodb&theme=dark)](https://skillicons.dev)
+![Python](https://img.shields.io/badge/🐍_Python-00D9FF?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)
+![JavaScript](https://img.shields.io/badge/🟨_JavaScript-BD00FF?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0D1117)
+![TypeScript](https://img.shields.io/badge/🔷_TypeScript-FFD700?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117)
+![Bash](https://img.shields.io/badge/💻_Bash-00FF88?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0D1117)
+![MySQL](https://img.shields.io/badge/🐬_MySQL-00D9FF?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117)
+![PostgreSQL](https://img.shields.io/badge/🐘_PostgreSQL-BD00FF?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117)
+![MongoDB](https://img.shields.io/badge/🍃_MongoDB-FFD700?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D1117)
 
 **📊 Data Analysis & Visualization**
 
@@ -115,7 +121,9 @@ class AasimAnsari:
 
 **🧠 Deep Learning · Computer Vision · NLP**
 
-[![DL](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark)](https://skillicons.dev)
+![TensorFlow](https://img.shields.io/badge/🔶_TensorFlow-00D9FF?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117)
+![PyTorch](https://img.shields.io/badge/🔥_PyTorch-BD00FF?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0D1117)
+![OpenCV](https://img.shields.io/badge/👁️_OpenCV-FFD700?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0D1117)
 
 ![Keras](https://img.shields.io/badge/Keras-FFD700?style=for-the-badge&logo=keras&logoColor=white&labelColor=0D1117)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FF88?style=for-the-badge&logo=yolo&logoColor=white&labelColor=0D1117)
@@ -146,7 +154,13 @@ class AasimAnsari:
 
 **🌐 Full Stack Development**
 
-[![Web](https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask,vite,tailwind&theme=dark)](https://skillicons.dev)
+![React](https://img.shields.io/badge/⚛️_React-00D9FF?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117)
+![Node.js](https://img.shields.io/badge/🟩_Node.js-BD00FF?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0D1117)
+![Express](https://img.shields.io/badge/🚂_Express-FFD700?style=for-the-badge&logo=express&logoColor=white&labelColor=0D1117)
+![FastAPI](https://img.shields.io/badge/⚡_FastAPI-00FF88?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0D1117)
+![Flask](https://img.shields.io/badge/🍶_Flask-00D9FF?style=for-the-badge&logo=flask&logoColor=white&labelColor=0D1117)
+![Vite](https://img.shields.io/badge/🌩️_Vite-BD00FF?style=for-the-badge&logo=vite&logoColor=white&labelColor=0D1117)
+![Tailwind](https://img.shields.io/badge/🎨_Tailwind-FFD700?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0D1117)
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-00D9FF?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0D1117)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-BD00FF?style=for-the-badge&logo=socketdotio&logoColor=white&labelColor=0D1117)
@@ -155,7 +169,10 @@ class AasimAnsari:
 
 **🚀 MLOps & Deployment**
 
-[![DevOps](https://skillicons.dev/icons?i=docker,git,github,linux&theme=dark)](https://skillicons.dev)
+![Docker](https://img.shields.io/badge/🐳_Docker-00D9FF?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117)
+![Git](https://img.shields.io/badge/🌿_Git-BD00FF?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117)
+![GitHub](https://img.shields.io/badge/🐙_GitHub-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
+![Linux](https://img.shields.io/badge/🐧_Linux-00FF88?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D1117)
 
 ![MLflow](https://img.shields.io/badge/MLflow-00D9FF?style=for-the-badge&logo=mlflow&logoColor=white&labelColor=0D1117)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-BD00FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0D1117)
@@ -165,7 +182,10 @@ class AasimAnsari:
 
 **🧰 Tools**
 
-[![Tools](https://skillicons.dev/icons?i=vscode,postman,anaconda,figma&theme=dark)](https://skillicons.dev)
+![VS Code](https://img.shields.io/badge/📝_VS_Code-00D9FF?style=for-the-badge&labelColor=0D1117)
+![Postman](https://img.shields.io/badge/📮_Postman-BD00FF?style=for-the-badge&logo=postman&logoColor=white&labelColor=0D1117)
+![Anaconda](https://img.shields.io/badge/📦_Anaconda-FFD700?style=for-the-badge&logo=anaconda&logoColor=white&labelColor=0D1117)
+![Figma](https://img.shields.io/badge/🖌️_Figma-00FF88?style=for-the-badge&logo=figma&logoColor=white&labelColor=0D1117)
 
 </div>
 
