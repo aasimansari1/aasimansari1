@@ -92,100 +92,53 @@ class AasimAnsari:
 
 **🐍 Languages & Databases**
 
-![Python](https://img.shields.io/badge/🐍_Python-00D9FF?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)
-![JavaScript](https://img.shields.io/badge/🟨_JavaScript-BD00FF?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0D1117)
-![TypeScript](https://img.shields.io/badge/🔷_TypeScript-FFD700?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117)
-![Bash](https://img.shields.io/badge/💻_Bash-00FF88?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0D1117)
-![MySQL](https://img.shields.io/badge/🐬_MySQL-00D9FF?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117)
-![PostgreSQL](https://img.shields.io/badge/🐘_PostgreSQL-BD00FF?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117)
-![MongoDB](https://img.shields.io/badge/🍃_MongoDB-FFD700?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D1117)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,js,ts,bash,mysql,postgres,mongodb" alt="Python, JavaScript, TypeScript, Bash, MySQL, PostgreSQL, MongoDB" height="46"/>
 
 **📊 Data Analysis & Visualization**
 
-![Pandas](https://img.shields.io/badge/🐼_Pandas-00D9FF?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0D1117)
-![NumPy](https://img.shields.io/badge/🔢_NumPy-BD00FF?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0D1117)
-![SciPy](https://img.shields.io/badge/🧪_SciPy-FFD700?style=for-the-badge&logo=scipy&logoColor=white&labelColor=0D1117)
-![Matplotlib](https://img.shields.io/badge/📊_Matplotlib-00FF88?style=for-the-badge&labelColor=0D1117)
-![Seaborn](https://img.shields.io/badge/📈_Seaborn-00D9FF?style=for-the-badge&labelColor=0D1117)
-![Plotly](https://img.shields.io/badge/📉_Plotly-BD00FF?style=for-the-badge&logo=plotly&logoColor=white&labelColor=0D1117)
-![Jupyter](https://img.shields.io/badge/📓_Jupyter-FFD700?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0D1117)
-![Statistics](https://img.shields.io/badge/🧮_Statistics_&_EDA-00FF88?style=for-the-badge&labelColor=0D1117)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,scipy,matplotlib,seaborn,plotly,jupyter" alt="Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly, Jupyter" height="46"/>
+
+<sub><i>Statistics &amp; EDA</i></sub>
 
 **🤖 Machine Learning**
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-FFD700?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0D1117)
-![XGBoost](https://img.shields.io/badge/🌲_XGBoost-00D9FF?style=for-the-badge&labelColor=0D1117)
-![LightGBM](https://img.shields.io/badge/💡_LightGBM-BD00FF?style=for-the-badge&labelColor=0D1117)
-![Time Series](https://img.shields.io/badge/⏱️_ARIMA_|_Prophet_|_LSTM-00FF88?style=for-the-badge&labelColor=0D1117)
-![Feature Engineering](https://img.shields.io/badge/🔧_Feature_Engineering-BD00FF?style=for-the-badge&labelColor=0D1117)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn" alt="scikit-learn" height="46"/>
+
+<sub><i>XGBoost · LightGBM · ARIMA | Prophet | LSTM · Feature Engineering</i></sub>
 
 **🧠 Deep Learning · Computer Vision · NLP**
 
-![TensorFlow](https://img.shields.io/badge/🔶_TensorFlow-00D9FF?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117)
-![PyTorch](https://img.shields.io/badge/🔥_PyTorch-BD00FF?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0D1117)
-![OpenCV](https://img.shields.io/badge/👁️_OpenCV-FFD700?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0D1117)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,opencv" alt="TensorFlow, PyTorch, OpenCV" height="46"/>
 
-![Keras](https://img.shields.io/badge/Keras-FFD700?style=for-the-badge&logo=keras&logoColor=white&labelColor=0D1117)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FF88?style=for-the-badge&logo=yolo&logoColor=white&labelColor=0D1117)
-![spaCy](https://img.shields.io/badge/spaCy-00D9FF?style=for-the-badge&logo=spacy&logoColor=white&labelColor=0D1117)
-![NLTK](https://img.shields.io/badge/🔤_NLTK-BD00FF?style=for-the-badge&labelColor=0D1117)
-![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD700?style=for-the-badge&labelColor=0D1117)
+<sub><i>Keras · YOLOv8 · spaCy · NLTK · Transformers</i></sub>
 
 **✨ Gen AI**
 
-![OpenAI](https://img.shields.io/badge/🧠_OpenAI_API-00D9FF?style=for-the-badge&labelColor=0D1117)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD700?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=0D1117)
-![LangChain](https://img.shields.io/badge/LangChain-00FF88?style=for-the-badge&logo=langchain&logoColor=white&labelColor=0D1117)
-![LlamaIndex](https://img.shields.io/badge/🦙_LlamaIndex-BD00FF?style=for-the-badge&labelColor=0D1117)
-![RAG](https://img.shields.io/badge/🔍_RAG_Pipelines-00D9FF?style=for-the-badge&labelColor=0D1117)
-![Vector DBs](https://img.shields.io/badge/🗂️_ChromaDB_|_FAISS-FFD700?style=for-the-badge&labelColor=0D1117)
-![Embeddings](https://img.shields.io/badge/🧬_Embeddings-00FF88?style=for-the-badge&labelColor=0D1117)
-![Ollama](https://img.shields.io/badge/Ollama-BD00FF?style=for-the-badge&logo=ollama&logoColor=white&labelColor=0D1117)
-![Groq](https://img.shields.io/badge/⚡_Groq-00D9FF?style=for-the-badge&labelColor=0D1117)
-![Prompt Engineering](https://img.shields.io/badge/✍️_Prompt_Engineering-FFD700?style=for-the-badge&labelColor=0D1117)
-![Fine Tuning](https://img.shields.io/badge/🎛️_Fine_Tuning-00FF88?style=for-the-badge&labelColor=0D1117)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,huggingface,langchain,llamaindex,ollama,groq" alt="OpenAI, HuggingFace, LangChain, LlamaIndex, Ollama, Groq" height="46"/>
+
+<sub><i>RAG Pipelines · ChromaDB | FAISS · Embeddings · Prompt Engineering · Fine Tuning</i></sub>
 
 **🦾 Agentic AI**
 
-![LangGraph](https://img.shields.io/badge/LangGraph-00D9FF?style=for-the-badge&logo=langgraph&logoColor=white&labelColor=0D1117)
-![CrewAI](https://img.shields.io/badge/CrewAI-FFD700?style=for-the-badge&logo=crewai&logoColor=white&labelColor=0D1117)
-![Tool Calling](https://img.shields.io/badge/🛠️_Tool_Calling-00D9FF?style=for-the-badge&labelColor=0D1117)
-![Multi Agent](https://img.shields.io/badge/👥_Multi_Agent_Systems-00FF88?style=for-the-badge&labelColor=0D1117)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=crewai,mcp" alt="CrewAI, MCP" height="46"/>
+
+<sub><i>LangGraph · Tool Calling · Multi-Agent Systems</i></sub>
 
 **🌐 Full Stack Development**
 
-![React](https://img.shields.io/badge/⚛️_React-00D9FF?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117)
-![Node.js](https://img.shields.io/badge/🟩_Node.js-BD00FF?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0D1117)
-![Express](https://img.shields.io/badge/🚂_Express-FFD700?style=for-the-badge&logo=express&logoColor=white&labelColor=0D1117)
-![FastAPI](https://img.shields.io/badge/⚡_FastAPI-00FF88?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0D1117)
-![Flask](https://img.shields.io/badge/🍶_Flask-00D9FF?style=for-the-badge&logo=flask&logoColor=white&labelColor=0D1117)
-![Vite](https://img.shields.io/badge/🌩️_Vite-BD00FF?style=for-the-badge&logo=vite&logoColor=white&labelColor=0D1117)
-![Tailwind](https://img.shields.io/badge/🎨_Tailwind-FFD700?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0D1117)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,nodejs,express,fastapi,flask,vite,tailwind,streamlit,socketio,jwt" alt="React, Node.js, Express, FastAPI, Flask, Vite, Tailwind, Streamlit, Socket.IO, JWT" height="46"/>
 
-![Streamlit](https://img.shields.io/badge/Streamlit-00D9FF?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0D1117)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-BD00FF?style=for-the-badge&logo=socketdotio&logoColor=white&labelColor=0D1117)
-![JWT](https://img.shields.io/badge/JWT_Auth-00FF88?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=0D1117)
-![REST](https://img.shields.io/badge/🔌_REST_APIs-00D9FF?style=for-the-badge&labelColor=0D1117)
+<sub><i>REST APIs</i></sub>
 
 **🚀 MLOps & Deployment**
 
-![Docker](https://img.shields.io/badge/🐳_Docker-00D9FF?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117)
-![Git](https://img.shields.io/badge/🌿_Git-BD00FF?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117)
-![GitHub](https://img.shields.io/badge/🐙_GitHub-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
-![Linux](https://img.shields.io/badge/🐧_Linux-00FF88?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D1117)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,git,github,linux,mlflow,githubactions,render,vercel" alt="Docker, Git, GitHub, Linux, MLflow, GitHub Actions, Render, Vercel" height="46"/>
 
-![MLflow](https://img.shields.io/badge/MLflow-00D9FF?style=for-the-badge&logo=mlflow&logoColor=white&labelColor=0D1117)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-BD00FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0D1117)
-![Render](https://img.shields.io/badge/Render-FFD700?style=for-the-badge&logo=render&logoColor=white&labelColor=0D1117)
-![Vercel](https://img.shields.io/badge/Vercel-00FF88?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)
-![HF Spaces](https://img.shields.io/badge/🤗_HF_Spaces-00D9FF?style=for-the-badge&labelColor=0D1117)
+<sub><i>Hugging Face Spaces</i></sub>
 
 **🧰 Tools**
 
-![VS Code](https://img.shields.io/badge/📝_VS_Code-00D9FF?style=for-the-badge&labelColor=0D1117)
-![Postman](https://img.shields.io/badge/📮_Postman-BD00FF?style=for-the-badge&logo=postman&logoColor=white&labelColor=0D1117)
-![Anaconda](https://img.shields.io/badge/📦_Anaconda-FFD700?style=for-the-badge&logo=anaconda&logoColor=white&labelColor=0D1117)
-![Figma](https://img.shields.io/badge/🖌️_Figma-00FF88?style=for-the-badge&logo=figma&logoColor=white&labelColor=0D1117)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,postman,anaconda,figma" alt="VS Code, Postman, Anaconda, Figma" height="46"/>
 
 </div>
 
