@@ -203,7 +203,6 @@ class AasimAnsari:
 <td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=git" width="44" height="44" alt="Git"/><br><sub><b>Git ⭐</b></sub></td>
 <td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" width="44" height="44" alt="GitHub"/><br><sub><b>GitHub ⭐</b></sub></td>
 <td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=linux" width="44" height="44" alt="Linux"/><br><sub><b>Linux ⭐</b></sub></td>
-<td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=mlflow" width="44" height="44" alt="MLflow"/><br><sub><b>MLflow</b></sub></td>
 <td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions" width="44" height="44" alt="Actions"/><br><sub><b>Actions ⭐</b></sub></td>
 <td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=render" width="44" height="44" alt="Render"/><br><sub><b>Render ⭐</b></sub></td>
 </tr>
