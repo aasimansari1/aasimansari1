@@ -127,10 +127,12 @@ class AasimAnsari:
 <table>
 <tr>
 <td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn" width="44" height="44" alt="scikit-learn"/><br><sub><b>scikit-learn ⭐</b></sub></td>
+<td align="center" width="92"><img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" width="72" alt="XGBoost"/><br><sub><b>XGBoost ⭐</b></sub></td>
+<td align="center" width="92"><img src="https://raw.githubusercontent.com/microsoft/LightGBM/master/docs/logo/LightGBM_logo_no_text.svg" width="44" height="44" alt="LightGBM"/><br><sub><b>LightGBM ⭐</b></sub></td>
 </tr>
 </table>
 
-![XGBoost](https://img.shields.io/badge/XGBoost-00D9FF?style=for-the-badge&labelColor=0D1117) ![LightGBM](https://img.shields.io/badge/LightGBM-BD00FF?style=for-the-badge&labelColor=0D1117) ![Time Series](https://img.shields.io/badge/Time_Series-FFD700?style=for-the-badge&labelColor=0D1117) ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-00FF88?style=for-the-badge&labelColor=0D1117)
+![Time Series](https://img.shields.io/badge/Time_Series-FFD700?style=for-the-badge&labelColor=0D1117) ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-00FF88?style=for-the-badge&labelColor=0D1117)
 
 <img src="https://capsule-render.vercel.app/api?type=soft&height=44&section=header&fontSize=20&fontColor=0D1117&fontAlignY=52&text=Deep%20Learning%20%C2%B7%20Computer%20Vision%20%C2%B7%20NLP&color=0:00FF88,100:00D9FF" width="640"/>
 
@@ -163,12 +165,13 @@ class AasimAnsari:
 
 <table>
 <tr>
+<td align="center" width="92"><img src="https://cdn.simpleicons.org/langgraph/white" width="42" height="42" alt="LangGraph"/><br><sub><b>LangGraph</b></sub></td>
 <td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=crewai" width="44" height="44" alt="CrewAI"/><br><sub><b>CrewAI</b></sub></td>
 <td align="center" width="92"><img src="https://go-skill-icons.vercel.app/api/icons?i=mcp" width="44" height="44" alt="MCP"/><br><sub><b>MCP</b></sub></td>
 </tr>
 </table>
 
-![LangGraph](https://img.shields.io/badge/LangGraph-00D9FF?style=for-the-badge&labelColor=0D1117) ![Tool Calling](https://img.shields.io/badge/Tool_Calling-BD00FF?style=for-the-badge&labelColor=0D1117) ![Multi Agent Systems](https://img.shields.io/badge/Multi_Agent_Systems-FFD700?style=for-the-badge&labelColor=0D1117)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-BD00FF?style=for-the-badge&labelColor=0D1117) ![Multi Agent Systems](https://img.shields.io/badge/Multi_Agent_Systems-FFD700?style=for-the-badge&labelColor=0D1117)
 
 <img src="https://capsule-render.vercel.app/api?type=soft&height=44&section=header&fontSize=20&fontColor=0D1117&fontAlignY=52&text=Full%20Stack%20Development&color=0:FFD700,100:00D9FF" width="640"/>
 
