@@ -139,8 +139,6 @@ class AasimAnsari:
 </tr>
 </table>
 
-[![Contribution Graph](https://ghchart.rshah.org/00D9FF/aasimansari1)](https://github.com/aasimansari1)
-
 <br/>
 
 <table>
